@@ -1,0 +1,22 @@
+{
+  "commit": "e7355582db9c79812027cb4b47710c3f2efc7ae3",
+  "pull_request": 85,
+  "reml_tolerance": 1e-06,
+  "share_tolerance": 1e-09,
+  "exact_tolerance": 0,
+  "bfgs_reltol": 1e-14,
+  "confidence_percent": 95,
+  "nested_random_levels": 2,
+  "model_levels_including_sampling": 3,
+  "original_denominator_epsilon": 1e-10,
+  "corrected_faults": 2,
+  "sources": {
+    "commit": "Task supplied provenance: merged snapshot verified at this commit; no network verification in this archive task.",
+    "pull_request": "Task supplied provenance; results/fix.patch",
+    "tolerances": "bench/compare.py",
+    "bfgs_reltol": "bench/diagnose.R",
+    "confidence_percent": "app/multilevel-ma/index.html",
+    "levels": "bench/reference.R random = ~1|cluster/id",
+    "faults_and_epsilon": "results/fix.patch and results/RESULTS.md"
+  }
+}

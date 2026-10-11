@@ -1,0 +1,179 @@
+{
+  "datasets_enumerated": {
+    "value": 114
+  },
+  "datasets_used": {
+    "value": 41
+  },
+  "datasets_excluded": {
+    "value": 73
+  },
+  "configurations": {
+    "value": 44
+  },
+  "effect_sizes": {
+    "value": 8069
+  },
+  "checks_per_configuration": {
+    "value": 12
+  },
+  "checks": {
+    "value": 528
+  },
+  "passed": {
+    "value": 528
+  },
+  "before_passed": {
+    "value": 506
+  },
+  "reml_quantities": {
+    "value": 7
+  },
+  "share_quantities": {
+    "value": 3
+  },
+  "exact_quantities": {
+    "value": 2
+  },
+  "usecase_rows": {
+    "value": 56
+  },
+  "usecase_clusters": {
+    "value": 11
+  },
+  "max_mu": {
+    "value": 2.3e-07,
+    "significant": 2
+  },
+  "max_se": {
+    "value": 3.1e-07,
+    "significant": 2
+  },
+  "max_confidence_limits": {
+    "value": 8.5e-07,
+    "significant": 2
+  },
+  "max_sigma2Between": {
+    "value": 5.5e-07,
+    "significant": 2
+  },
+  "max_sigma2Within": {
+    "value": 4.7e-07,
+    "significant": 2
+  },
+  "max_logLik": {
+    "value": 1.3e-10,
+    "significant": 2
+  },
+  "usecase_app_mu": {
+    "value": 0.185,
+    "digits": 3
+  },
+  "usecase_app_se": {
+    "value": 0.085,
+    "digits": 3
+  },
+  "usecase_app_ciLo": {
+    "value": 0.019,
+    "digits": 3
+  },
+  "usecase_app_ciHi": {
+    "value": 0.35,
+    "digits": 3
+  },
+  "usecase_app_sigma2Between": {
+    "value": 0.0651,
+    "digits": 4
+  },
+  "usecase_app_sigma2Within": {
+    "value": 0.0327,
+    "digits": 4
+  },
+  "usecase_app_logLik": {
+    "value": -7.959,
+    "digits": 3
+  },
+  "usecase_R_mu": {
+    "value": 0.185,
+    "digits": 3
+  },
+  "usecase_R_se": {
+    "value": 0.085,
+    "digits": 3
+  },
+  "usecase_R_ciLo": {
+    "value": 0.019,
+    "digits": 3
+  },
+  "usecase_R_ciHi": {
+    "value": 0.35,
+    "digits": 3
+  },
+  "usecase_R_sigma2Between": {
+    "value": 0.0651,
+    "digits": 4
+  },
+  "usecase_R_sigma2Within": {
+    "value": 0.0327,
+    "digits": 4
+  },
+  "usecase_R_logLik": {
+    "value": -7.959,
+    "digits": 3
+  },
+  "usecase_mom_mu": {
+    "value": 0.128,
+    "digits": 3
+  },
+  "maire_nlminb_logLik": {
+    "value": -199.88753459235858
+  },
+  "maire_bfgs_logLik": {
+    "value": -199.88753459234036
+  },
+  "maire_app_logLik": {
+    "value": -199.8875345923403
+  },
+  "version_R": {
+    "value": "R version 4.6.0 (2026-04-24 ucrt)"
+  },
+  "version_metafor": {
+    "value": "5.2.1"
+  },
+  "version_metadat": {
+    "value": "1.6.0"
+  },
+  "commit": {
+    "value": "e7355582db9c79812027cb4b47710c3f2efc7ae3"
+  },
+  "pull_request": {
+    "value": 85
+  },
+  "reml_tolerance": {
+    "value": 1e-06
+  },
+  "share_tolerance": {
+    "value": 1e-09
+  },
+  "exact_tolerance": {
+    "value": 0
+  },
+  "bfgs_reltol": {
+    "value": 1e-14
+  },
+  "confidence_percent": {
+    "value": 95
+  },
+  "nested_random_levels": {
+    "value": 2
+  },
+  "model_levels_including_sampling": {
+    "value": 3
+  },
+  "original_denominator_epsilon": {
+    "value": 1e-10
+  },
+  "corrected_faults": {
+    "value": 2
+  }
+}

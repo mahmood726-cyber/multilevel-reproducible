@@ -1,0 +1,332 @@
+{
+  "datasets_enumerated": {
+    "value": 114,
+    "source": "inventory.csv",
+    "transformation": "count rows",
+    "kind": "measured"
+  },
+  "datasets_used": {
+    "value": 41,
+    "source": "dataset-disposition.csv:status",
+    "transformation": "count used",
+    "kind": "measured"
+  },
+  "datasets_excluded": {
+    "value": 73,
+    "source": "dataset-disposition.csv:status",
+    "transformation": "count excluded",
+    "kind": "measured"
+  },
+  "configurations": {
+    "value": 44,
+    "source": "reference.json",
+    "transformation": "count configurations",
+    "kind": "measured"
+  },
+  "effect_sizes": {
+    "value": 8069,
+    "source": "reference.json:*.rows",
+    "transformation": "sum across configurations; not unique participants",
+    "kind": "measured"
+  },
+  "checks_per_configuration": {
+    "value": 12,
+    "source": "recomputed ledger",
+    "transformation": "count checks per configuration",
+    "kind": "measured"
+  },
+  "checks": {
+    "value": 528,
+    "source": "reference.json + app-merged-e735558.json + corpus.json",
+    "transformation": "recompute comparison",
+    "kind": "measured"
+  },
+  "passed": {
+    "value": 528,
+    "source": "reference.json + app-merged-e735558.json + corpus.json",
+    "transformation": "recompute comparison",
+    "kind": "measured"
+  },
+  "before_passed": {
+    "value": 506,
+    "source": "reference.json + app.json + corpus.json",
+    "transformation": "recompute comparison",
+    "kind": "measured"
+  },
+  "reml_quantities": {
+    "value": 7,
+    "source": "comparison-patched.json:quantities",
+    "transformation": "count named quantity group",
+    "kind": "measured"
+  },
+  "share_quantities": {
+    "value": 3,
+    "source": "comparison-patched.json:quantities",
+    "transformation": "count named quantity group",
+    "kind": "measured"
+  },
+  "exact_quantities": {
+    "value": 2,
+    "source": "comparison-patched.json:quantities",
+    "transformation": "count named quantity group",
+    "kind": "measured"
+  },
+  "max_mu": {
+    "value": 2.3390059139538621e-07,
+    "source": "reference.json:*.values.mu + app-merged-e735558.json:results.*.reml.mu",
+    "transformation": "max |app-R|/max(1,|R|)",
+    "kind": "measured"
+  },
+  "max_se": {
+    "value": 3.142326060467937e-07,
+    "source": "reference.json:*.values.se + app-merged-e735558.json:results.*.reml.se",
+    "transformation": "max |app-R|/max(1,|R|)",
+    "kind": "measured"
+  },
+  "max_ciLo": {
+    "value": 3.819839992369456e-07,
+    "source": "reference.json:*.values.ciLo + app-merged-e735558.json:results.*.reml.ciLo",
+    "transformation": "max |app-R|/max(1,|R|)",
+    "kind": "measured"
+  },
+  "max_ciHi": {
+    "value": 8.497851821109847e-07,
+    "source": "reference.json:*.values.ciHi + app-merged-e735558.json:results.*.reml.ciHi",
+    "transformation": "max |app-R|/max(1,|R|)",
+    "kind": "measured"
+  },
+  "max_sigma2Between": {
+    "value": 5.546372417279677e-07,
+    "source": "reference.json:*.values.sigma2Between + app-merged-e735558.json:results.*.reml.sigma2Between",
+    "transformation": "max |app-R|/max(1,|R|)",
+    "kind": "measured"
+  },
+  "max_sigma2Within": {
+    "value": 4.6890289739920377e-07,
+    "source": "reference.json:*.values.sigma2Within + app-merged-e735558.json:results.*.reml.sigma2Within",
+    "transformation": "max |app-R|/max(1,|R|)",
+    "kind": "measured"
+  },
+  "max_logLik": {
+    "value": 1.3277410384479676e-10,
+    "source": "reference.json:*.values.logLik + app-merged-e735558.json:results.*.reml.logLik",
+    "transformation": "max |app-R|/max(1,|R|)",
+    "kind": "measured"
+  },
+  "max_confidence_limits": {
+    "value": 8.497851821109847e-07,
+    "source": "reference.json + app-merged-e735558.json:ciLo,ciHi",
+    "transformation": "max across both confidence limits",
+    "kind": "measured"
+  },
+  "usecase_rows": {
+    "value": 56,
+    "source": "reference.json:dat.konstantopoulos2011.rows",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_clusters": {
+    "value": 11,
+    "source": "reference.json:dat.konstantopoulos2011.clusters",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_app_mu": {
+    "value": 0.18471316366995802,
+    "source": "app-merged-e735558.json:results.dat.konstantopoulos2011.reml.mu",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_app_se": {
+    "value": 0.08455591881503424,
+    "source": "app-merged-e735558.json:results.dat.konstantopoulos2011.reml.se",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_app_ciLo": {
+    "value": 0.018986608112798176,
+    "source": "app-merged-e735558.json:results.dat.konstantopoulos2011.reml.ciLo",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_app_ciHi": {
+    "value": 0.35043971922711786,
+    "source": "app-merged-e735558.json:results.dat.konstantopoulos2011.reml.ciHi",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_app_sigma2Between": {
+    "value": 0.06506194440335128,
+    "source": "app-merged-e735558.json:results.dat.konstantopoulos2011.reml.sigma2Between",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_app_sigma2Within": {
+    "value": 0.03273651705522482,
+    "source": "app-merged-e735558.json:results.dat.konstantopoulos2011.reml.sigma2Within",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_app_logLik": {
+    "value": -7.958724033710929,
+    "source": "app-merged-e735558.json:results.dat.konstantopoulos2011.reml.logLik",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_R_mu": {
+    "value": 0.18471316367269394,
+    "source": "reference.json:dat.konstantopoulos2011.values.mu",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_R_se": {
+    "value": 0.08455591875514461,
+    "source": "reference.json:dat.konstantopoulos2011.values.se",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_R_ciLo": {
+    "value": 0.018986608232915647,
+    "source": "reference.json:dat.konstantopoulos2011.values.ciLo",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_R_ciHi": {
+    "value": 0.35043971911247224,
+    "source": "reference.json:dat.konstantopoulos2011.values.ciHi",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_R_sigma2Between": {
+    "value": 0.06506194429859039,
+    "source": "reference.json:dat.konstantopoulos2011.values.sigma2Between",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_R_sigma2Within": {
+    "value": 0.0327365170313743,
+    "source": "reference.json:dat.konstantopoulos2011.values.sigma2Within",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_R_logLik": {
+    "value": -7.958724033710936,
+    "source": "reference.json:dat.konstantopoulos2011.values.logLik",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "usecase_mom_mu": {
+    "value": 0.12841281814142355,
+    "source": "app-merged-e735558.json:results.dat.konstantopoulos2011.displayedMoM.mu",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "maire_nlminb_logLik": {
+    "value": -199.88753459235858,
+    "source": "reference-nlminb.json:dat.maire2019.values.logLik",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "maire_bfgs_logLik": {
+    "value": -199.88753459234036,
+    "source": "maire-bfgs-reference.json:logLik",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "maire_app_logLik": {
+    "value": -199.8875345923403,
+    "source": "app-merged-e735558.json:results.dat.maire2019.reml.logLik",
+    "transformation": "identity",
+    "kind": "measured"
+  },
+  "maire_logLik_improvement": {
+    "value": 1.821831574488897e-11,
+    "source": "maire-bfgs-reference.json + reference-nlminb.json",
+    "transformation": "BFGS minus nlminb logLik",
+    "kind": "measured"
+  },
+  "version_R": {
+    "value": "R version 4.6.0 (2026-04-24 ucrt)",
+    "source": "environment.json:R",
+    "transformation": "identity",
+    "kind": "source metadata"
+  },
+  "version_metafor": {
+    "value": "5.2.1",
+    "source": "environment.json:metafor",
+    "transformation": "identity",
+    "kind": "source metadata"
+  },
+  "version_metadat": {
+    "value": "1.6.0",
+    "source": "environment.json:metadat",
+    "transformation": "identity",
+    "kind": "source metadata"
+  },
+  "commit": {
+    "value": "e7355582db9c79812027cb4b47710c3f2efc7ae3",
+    "source": "protocol.json:commit",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "pull_request": {
+    "value": 85,
+    "source": "protocol.json:pull_request",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "reml_tolerance": {
+    "value": 1e-06,
+    "source": "protocol.json:reml_tolerance",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "share_tolerance": {
+    "value": 1e-09,
+    "source": "protocol.json:share_tolerance",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "exact_tolerance": {
+    "value": 0,
+    "source": "protocol.json:exact_tolerance",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "bfgs_reltol": {
+    "value": 1e-14,
+    "source": "protocol.json:bfgs_reltol",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "confidence_percent": {
+    "value": 95,
+    "source": "protocol.json:confidence_percent",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "nested_random_levels": {
+    "value": 2,
+    "source": "protocol.json:nested_random_levels",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "model_levels_including_sampling": {
+    "value": 3,
+    "source": "protocol.json:model_levels_including_sampling",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "original_denominator_epsilon": {
+    "value": 1e-10,
+    "source": "protocol.json:original_denominator_epsilon",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  },
+  "corrected_faults": {
+    "value": 2,
+    "source": "protocol.json:corrected_faults",
+    "transformation": "declared protocol/source metadata; evidence links in protocol.json:sources",
+    "kind": "static"
+  }
+}

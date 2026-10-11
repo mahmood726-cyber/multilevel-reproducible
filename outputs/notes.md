@@ -1,0 +1,7 @@
+Figures: 300 dpi, nominal width 170 mm, all text at least 8 pt. Each plotted point is the scalar difference for one configuration and REML quantity. Exact zeros and differences below 1e-16 are plotted at -16. The orange diamond marks dat.maire2019; the dashed line is 1e-6. Table 1 is in the same alphabetical configuration order. Several configurations stack distinct endpoints; descriptions preserve this qualification.
+
+Seven REML comparisons, three conditional MoM share-formula checks and two exact UI contracts make twelve checks per configuration. MoM estimates and cluster-df intervals were NOT validated against R. Formula parity conditions on app MoM components. Render checks are the historical runner's Boolean rounded-value-presence contract, not an independent cell-by-cell accessibility or export test.
+
+Numbers include all empirical manuscript claims, versions and protocol constants. Section/list numbering, bracketed citation numbers, dataset-name years, the dictated draft date and bibliographic numbering are identifiers or editorial metadata, not experimental claims. No manuscript draft is distributed. Package strings 5.2.1 and 1.6.0 are the R-reported forms of release labels 5.2-1 and 1.6-0.
+
+Two app assets missing from the run's snapshot (a stylesheet and the tooltip glossary) were added from git at e735558; neither affects a computed value. The full archived historical numerical results remain reproducible from JSON. No full R corpus rerun or new release certification is implied by regenerating these outputs.

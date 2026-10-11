@@ -1,0 +1,45 @@
+dataset,configuration,outcome_label,cluster_variable,effect_sizes,clusters,largest_relative_difference,checks_passed,checks,all_within,configuration_description
+dat.anand1999,dat.anand1999,,study,34,31,8.057065570277189e-10,12,12,yes,Repeated documented study/trial identifier; log OR; diagonal V; numerical validation not a clinical pooled estimand.
+dat.anker2025,dat.anker2025,,study,12,6,4.261289632268017e-08,12,12,yes,Disjoint male/female log risk ratios within trials; excludes overlapping overall estimate.
+dat.assink2016,dat.assink2016,,study,100,17,8.857618997992756e-08,12,12,yes,Documented study groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.axfors2021,dat.axfors2021,,id,33,28,2.361861664579301e-09,12,12,yes,Source registry identifier groups trial arms; supplied IDs used only as cluster labels; diagonal V benchmark.
+dat.bakdash2021,dat.bakdash2021,,SampleID,678,79,1.8075872916523128e-09,12,12,yes,"Documented experiment identifier; supplied z correlations include source-imputed ghost results, not generated here."
+dat.begg1989,dat.begg1989,,study,20,16,1.935963445109934e-09,12,12,yes,Documented study groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.berkey1998,dat.berkey1998,,trial,10,5,1.2067243188029764e-07,12,12,yes,Documented trial groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.berkey1998r,dat.berkey1998r,,trial,10,5,1.20204891457254e-07,12,12,yes,Documented trial groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.besson2016,dat.besson2016,,study_ID,389,46,4.6890289739920377e-07,12,12,yes,"Documented study ID groups comparisons; SMD from reported means and SE times sqrt(n); raw experimental direction, diagonal V."
+dat.bornmann2007,dat.bornmann2007,,study,66,21,7.534223245286853e-11,12,12,yes,Study reference groups award comparisons; log odds ratios per help example.
+dat.bourassa1996,dat.bourassa1996,,study,54,47,8.275611096397739e-08,12,12,yes,Combined-sex samples within studies per package example; avoids overlapping subgroup rows.
+dat.cannon2006,dat.cannon2006,,cluster,24,4,3.5579006407715497e-10,12,12,yes,"Wide endpoints stacked within source trial ; log OR; overlapping/different endpoints, numerical benchmark only, not a clinical grand effect."
+dat.chiarito2020,dat.chiarito2020,,cluster,32,9,1.0516649660147204e-07,12,12,yes,"Wide endpoints stacked within source study ; log OR; overlapping/different endpoints, numerical benchmark only, not a clinical grand effect."
+dat.cohen1981,dat.cohen1981,,study,20,16,1.0300400532514686e-09,12,12,yes,Documented study identifier; Fisher z correlations from escalc; diagonal V.
+dat.collins1985a,dat.collins1985a,,cluster,71,27,5.78628062131159e-09,12,12,yes,"Wide endpoints stacked within source id ; log OR; overlapping/different endpoints, numerical benchmark only, not a clinical grand effect."
+dat.collins1985b,dat.collins1985b,,cluster,34,9,1.3207953653004978e-07,12,12,yes,"Wide endpoints stacked within source id ; log OR; overlapping/different endpoints, numerical benchmark only, not a clinical grand effect."
+dat.craft2003,dat.craft2003,,study,54,10,7.957669523328548e-10,12,12,yes,Documented study identifier; Fisher z correlations from escalc; diagonal V.
+dat.crede2010,dat.crede2010,,studyid,97,68,1.1259887917891565e-09,12,12,yes,Documented study identifier; Fisher z correlations from escalc; diagonal V.
+dat.curtis1998,dat.curtis1998,,paper,102,29,1.2156677123287274e-09,12,12,yes,Paper groups plant experiments; log response ratios.
+dat.dagostino1998,dat.dagostino1998,,study,34,9,1.3773620038959322e-07,12,12,yes,Continuous outcomes within study; SMD; missing continuous summaries excluded.
+dat.demir2022,dat.demir2022,,studyid,33,26,2.9094410158858608e-08,12,12,yes,Study identifier groups reliability estimates; ABT transformation from package example.
+dat.fine1993,dat.fine1993,,cluster,66,17,8.497851821109847e-07,12,12,yes,"Wide endpoints stacked within source study ; log OR; overlapping/different endpoints, numerical benchmark only, not a clinical grand effect."
+dat.hannum2020,dat.hannum2020,,DOI,35,34,1.0571165428348562e-07,12,12,yes,Source article DOI groups olfactory loss estimates; diagonal V benchmark.
+dat.hartmannboyce2018,dat.hartmannboyce2018,,study,136,133,2.349453095947047e-09,12,12,yes,Study groups nicotine comparisons; log OR; shared-control covariance omitted in both fits.
+dat.ishak2007,dat.ishak2007,,study,82,46,1.9277721194119305e-07,12,12,yes,Repeated timepoint effects within studies; diagonal V benchmark excludes temporal sampling covariance.
+dat.kalaian1996,dat.kalaian1996,,study,67,47,7.635293980082503e-11,12,12,yes,Documented study groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.karner2014,dat.karner2014,,cluster,128,22,2.5555596527837565e-10,12,12,yes,"Wide endpoints stacked within source study ; log OR; overlapping/different endpoints, numerical benchmark only, not a clinical grand effect."
+dat.knapp2017,dat.knapp2017,,study,66,31,3.579203929418573e-08,12,12,yes,Documented study groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.konstantopoulos2011,dat.konstantopoulos2011,,district,56,11,1.2011747152484986e-10,12,12,yes,Documented district groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.landenberger2005,dat.landenberger2005,,study,58,54,3.4154973432842795e-09,12,12,yes,Study identifier groups CBT comparisons; log OR.
+dat.lehmann2018,dat.lehmann2018,,Full_Citation,81,41,1.0614170792289102e-09,12,12,yes,Documented Full_Citation groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.lim2014,dat.lim2014/m_o_fecundity,m_o_fecundity,article,517,289,5.7262839747718175e-09,12,12,yes,Documented article/study groups correlations; two-level reduction excludes phylogenetic random effects.
+dat.lim2014,dat.lim2014/m_o_size,m_o_size,article,357,220,3.059898664309335e-09,12,12,yes,Documented article/study groups correlations; two-level reduction excludes phylogenetic random effects.
+dat.lim2014,dat.lim2014/o_o_adj,o_o_adj,article,185,85,9.255232956417725e-08,12,12,yes,Documented article/study groups correlations; two-level reduction excludes phylogenetic random effects.
+dat.lim2014,dat.lim2014/o_o_unadj,o_o_unadj,article,170,125,3.192248076988591e-09,12,12,yes,Documented article/study groups correlations; two-level reduction excludes phylogenetic random effects.
+dat.maire2019,dat.maire2019,,site,35,11,4.4602049325983165e-07,12,12,yes,Stations within sites; supplied s1 and vars1; two-level reduction excludes spatial correlation.
+dat.mccurdy2020,dat.mccurdy2020,,article,1653,126,1.970178804822087e-09,12,12,yes,Documented article groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.moura2021,dat.moura2021/dat,dat,study.id,1828,457,1.3469223791862106e-09,12,12,yes,Documented article/study groups correlations; two-level reduction excludes phylogenetic random effects.
+dat.nissen2007,dat.nissen2007,,cluster,84,42,7.866760298735898e-10,12,12,yes,"Wide endpoints stacked within source study ; log OR; overlapping/different endpoints, numerical benchmark only, not a clinical grand effect."
+dat.obrien2003,dat.obrien2003,,study,43,13,6.357737808437847e-10,12,12,yes,Documented study ID groups BMI strata; raw proportions; intercept-only reduction of documented multilevel regression.
+dat.riley2003,dat.riley2003,,study,98,81,1.0576834463815743e-08,12,12,yes,Documented study groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.tannersmith2016,dat.tannersmith2016,,studyid,113,17,3.3854618067263864e-09,12,12,yes,Documented studyid groups supplied effect estimates; diagonal sampling V; row id is nested effect.
+dat.white2020,dat.white2020,,study_id,186,41,5.725834140157815e-09,12,12,yes,Documented study identifier; Fisher z correlations from escalc; diagonal V.
+dat.yusuf1985,dat.yusuf1985,,id,118,61,2.0099158448694254e-10,12,12,yes,Repeated documented study/trial identifier; log OR; diagonal V; numerical validation not a clinical pooled estimand.

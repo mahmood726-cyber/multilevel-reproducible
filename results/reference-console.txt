@@ -1,0 +1,58 @@
+Rscript : During startup - Warning messages:
+At line:2 char:133
++ ... tchpad/re/Rlib_dta'; Rscript reference.R > reference-console.txt 2>&1
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (During startup - Warning messages::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+Loading required package: Matrix
+Loading required package: metadat
+Loading required package: numDeriv
+
+Loading the 'metafor' package (version 5.2-1). For an
+introduction to the package please type: help(metafor)
+
+dat.assink2016 100 rows OK 
+dat.konstantopoulos2011 56 rows OK 
+dat.berkey1998 10 rows OK 
+dat.berkey1998r 10 rows OK 
+dat.kalaian1996 67 rows OK 
+dat.knapp2017 66 rows OK 
+dat.tannersmith2016 113 rows OK 
+dat.riley2003 98 rows OK 
+dat.mccurdy2020 1653 rows OK 
+dat.lehmann2018 81 rows OK 
+dat.begg1989 20 rows OK 
+dat.bakdash2021 678 rows OK 
+dat.cohen1981 20 rows OK 
+dat.craft2003 54 rows OK 
+dat.crede2010 97 rows OK 
+dat.white2020 186 rows OK 
+dat.demir2022 33 rows OK 
+dat.bornmann2007 66 rows OK 
+dat.bourassa1996 54 rows OK 
+dat.curtis1998 102 rows OK 
+Warning: One or more SMD values are unusually large (i.e., abs(yi) > 2).
+Maybe SEs were used in place of SDs to compute them?
+dat.besson2016 389 rows OK 
+dat.anand1999 34 rows OK 
+dat.egger2001 16 rows OK 
+dat.lee2004 16 rows OK 
+dat.li2007 22 rows OK 
+dat.yusuf1985 118 rows OK 
+dat.hartmannboyce2018 136 rows OK 
+dat.landenberger2005 58 rows OK 
+dat.lim2014/m_o_size 357 rows OK 
+dat.lim2014/m_o_fecundity 517 rows OK 
+dat.lim2014/o_o_unadj 170 rows OK 
+dat.lim2014/o_o_adj 185 rows OK 
+dat.moura2021/dat 1828 rows OK 
+dat.maire2019 35 rows OK 
+dat.anker2025 12 rows OK 
+dat.ishak2007 82 rows OK 
+dat.dagostino1998 34 rows OK 
+37 reference configurations written

@@ -1,0 +1,131 @@
+{
+  "dataset": "dat.konstantopoulos2011",
+  "browser": "154.0.8037.93",
+  "checks": [
+    {
+      "name": "parsed rows",
+      "pass": true
+    },
+    {
+      "name": "MoM label",
+      "pass": true
+    },
+    {
+      "name": "mu",
+      "pass": true,
+      "difference": 2.7359225995837733e-12
+    },
+    {
+      "name": "render mu",
+      "pass": true
+    },
+    {
+      "name": "se",
+      "pass": true,
+      "difference": 5.988963491798671e-11
+    },
+    {
+      "name": "render se",
+      "pass": true
+    },
+    {
+      "name": "ciLo",
+      "pass": true,
+      "difference": 1.2011747152484986e-10
+    },
+    {
+      "name": "render ciLo",
+      "pass": true
+    },
+    {
+      "name": "ciHi",
+      "pass": true,
+      "difference": 1.1464562632568231e-10
+    },
+    {
+      "name": "render ciHi",
+      "pass": true
+    },
+    {
+      "name": "sigma2Between",
+      "pass": true,
+      "difference": 1.0476089440381031e-10
+    },
+    {
+      "name": "render sigma2Between",
+      "pass": true
+    },
+    {
+      "name": "sigma2Within",
+      "pass": true,
+      "difference": 2.385051878217581e-11
+    },
+    {
+      "name": "render sigma2Within",
+      "pass": true
+    },
+    {
+      "name": "logLik",
+      "pass": true,
+      "difference": 8.927847387978768e-16
+    },
+    {
+      "name": "render logLik",
+      "pass": true
+    },
+    {
+      "name": "MoM use-case value",
+      "pass": true
+    },
+    {
+      "name": "no page errors",
+      "pass": true
+    },
+    {
+      "name": "no external page requests",
+      "pass": true
+    },
+    {
+      "name": "no missing local assets",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "missing": [],
+  "external": [],
+  "observed": {
+    "reml": {
+      "mu": 0.18471316366995802,
+      "se": 0.08455591881503424,
+      "sigma2Between": 0.06506194440335128,
+      "sigma2Within": 0.03273651705522482,
+      "logLik": -7.958724033710929,
+      "k": 56,
+      "nClusters": 11,
+      "ciLo": 0.018986608112798176,
+      "ciHi": 0.35043971922711786
+    },
+    "mom": {
+      "_schema": "mlma-results-v1",
+      "k": 56,
+      "J": 11,
+      "mu": 0.12841281814142355,
+      "seMu": 0.04116179133859724,
+      "ci_lb_z": 0.04773718957862022,
+      "ci_ub_z": 0.20908844670422688,
+      "seMuHK": 0.10153429553594474,
+      "ci_lb_hk": -0.0978196895849068,
+      "ci_ub_hk": 0.3546453258677539,
+      "pi_lb": -0.5264612304795637,
+      "pi_ub": 0.7832868667624109,
+      "tau2_study": 0.06547075824227318,
+      "tau2_within": 0.010603581383104358,
+      "I2_study": 0.8080909552866423,
+      "I2_within": 0.13087763819114964,
+      "I2_sampling": 0.06103140652220815
+    },
+    "rows": 56,
+    "summary": "Method of moments (MoM)\nPooled estimate\t0.128\tSE = 0.041\n95% CI (z)\t[0.048, 0.209]\n95% CI (HKSJ + t10)\t[-0.098, 0.355]\n95% prediction interval (t10, total τ²)\t[-0.526, 0.783]\nτ²_study (between-study)\t0.0655 — share 80.8%\nτ²_within (within-study)\t0.0106 — share 13.1%\nσ²_typical (within-effect sampling)\tshare 6.1% — (study + within + sampling = 100.0%)\nREML (exact — matches metafor::rma.mv)\nPooled estimate\t0.185\tSE = 0.085\n95% CI (z)\t[0.019, 0.350]\nσ²_study (between)\t0.0651\nσ²_within\t0.0327\nREML log-likelihood\t-7.959",
+    "caption": "Method of moments (MoM)"
+  }
+}

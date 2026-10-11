@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this validation archive when using these results."
+title: "Three-level meta-analysis in the browser: a tool validated against the R package metafor"
+type: software
+authors:
+  - family-names: Ahmad
+    given-names: Mahmood
+version: 1.0.0
+license: MIT
+references:
+  - type: software
+    title: allmeta
+    authors:
+      - family-names: Ahmad
+        given-names: Mahmood
+    url: https://github.com/mahmood726-cyber/allmeta
+    notes: "isDerivedFrom; validated source commit e7355582db9c79812027cb4b47710c3f2efc7ae3"
+  - type: software
+    title: allmeta
+    authors:
+      - family-names: Ahmad
+        given-names: Mahmood
+    version: 1.2.1
+    doi: 10.5281/zenodo.23288388
+    notes: isDerivedFrom

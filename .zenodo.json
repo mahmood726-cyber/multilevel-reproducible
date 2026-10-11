@@ -1,0 +1,25 @@
+{
+  "title": "Three-level meta-analysis in the browser: a tool validated against the R package metafor",
+  "creators": [
+    {
+      "name": "Ahmad, Mahmood"
+    }
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/mahmood726-cyber/allmeta",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23288388",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    }
+  ],
+  "description": "Validation archive at allmeta commit e735558: 528/528 checks in 44 intercept-only nested configurations. MoM estimation is not validated against R; conditional variance-share formulas are checked. See README for the missing source stylesheet and scope."
+}

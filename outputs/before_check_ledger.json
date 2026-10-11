@@ -1,0 +1,4754 @@
+[
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "mu",
+    "app": 0.42679935718182516,
+    "reference": 0.42679936709727234,
+    "difference": 9.915447185537829e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "se",
+    "app": 0.11842919444635581,
+    "reference": 0.11842919351439088,
+    "difference": 9.319649357797388e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "ciLo",
+    "app": 0.19468240134887677,
+    "reference": 0.1946824130909417,
+    "difference": 1.1742064931485885e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "ciHi",
+    "app": 0.6589163130147735,
+    "reference": 0.658916321103603,
+    "difference": 8.088829495100924e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "sigma2Between",
+    "app": 0.18787025147949646,
+    "reference": 0.18787022409351425,
+    "difference": 2.7385982204197745e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "sigma2Within",
+    "app": 0.11199200058006928,
+    "reference": 0.11199208915625926,
+    "difference": 8.857618997992756e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "logLik",
+    "app": -73.63270544029888,
+    "reference": -73.63270544030424,
+    "difference": 7.27596819320268e-14,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "UI_row_count",
+    "app": 100,
+    "reference": 100,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "I2_study_formula",
+    "app": 0.7811111366948127,
+    "reference": 0.7811111369450151,
+    "difference": 2.502024143424819e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "I2_within_formula",
+    "app": 0.14728708214421923,
+    "reference": 0.14728708219139763,
+    "difference": 4.717840007550933e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.assink2016",
+    "quantity": "I2_sampling_formula",
+    "app": 0.07160178084065194,
+    "reference": 0.07160178086358715,
+    "difference": 2.293520928731141e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "mu",
+    "app": 0.18471316366995802,
+    "reference": 0.18471316367269394,
+    "difference": 2.7359225995837733e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "se",
+    "app": 0.08455591881503424,
+    "reference": 0.08455591875514461,
+    "difference": 5.988963491798671e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "ciLo",
+    "app": 0.018986608112798176,
+    "reference": 0.018986608232915647,
+    "difference": 1.2011747152484986e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "ciHi",
+    "app": 0.35043971922711786,
+    "reference": 0.35043971911247224,
+    "difference": 1.1464562632568231e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "sigma2Between",
+    "app": 0.06506194440335128,
+    "reference": 0.06506194429859039,
+    "difference": 1.0476089440381031e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "sigma2Within",
+    "app": 0.03273651705522482,
+    "reference": 0.0327365170313743,
+    "difference": 2.385051878217581e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "logLik",
+    "app": -7.958724033710929,
+    "reference": -7.958724033710936,
+    "difference": 8.927847387978768e-16,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "UI_row_count",
+    "app": 56,
+    "reference": 56,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "I2_study_formula",
+    "app": 0.8080909542892337,
+    "reference": 0.8080909552866423,
+    "difference": 9.97408600156291e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "I2_within_formula",
+    "app": 0.1308776380296103,
+    "reference": 0.13087763819114964,
+    "difference": 1.6153933746210214e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.konstantopoulos2011",
+    "quantity": "I2_sampling_formula",
+    "app": 0.06103140644687845,
+    "reference": 0.06103140652220815,
+    "difference": 7.532970081047807e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "mu",
+    "app": 0.015529160018984942,
+    "reference": 0.015529159973890344,
+    "difference": 4.509459819446171e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "se",
+    "app": 0.1295986346845764,
+    "reference": 0.12959858803981816,
+    "difference": 4.664475825033598e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "ciLo",
+    "app": -0.23847949640834828,
+    "reference": -0.2384794050313966,
+    "difference": 9.137695167193982e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "ciHi",
+    "app": 0.2695378164463182,
+    "reference": 0.2695377249791773,
+    "difference": 9.1467140916901e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "sigma2Between",
+    "app": 2.3361972028441804e-17,
+    "reference": 2.0241412338077955e-11,
+    "difference": 2.0241388976105925e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "sigma2Within",
+    "app": 0.1608870858355171,
+    "reference": 0.16088696516308523,
+    "difference": 1.2067243188029764e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "logLik",
+    "app": -4.761475367062154,
+    "reference": -4.761475367430468,
+    "difference": 7.735297141148655e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "UI_row_count",
+    "app": 10,
+    "reference": 10,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "I2_study_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "I2_within_formula",
+    "app": 0.9713909349810612,
+    "reference": 0.9713909359864518,
+    "difference": 1.0053905485918335e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.berkey1998",
+    "quantity": "I2_sampling_formula",
+    "app": 0.028609063983937918,
+    "reference": 0.02860906401354832,
+    "difference": 2.96104009367415e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "mu",
+    "app": 0.015529160018792938,
+    "reference": 0.01552915997387233,
+    "difference": 4.492060716454471e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "se",
+    "app": 0.12959863448789885,
+    "reference": 0.12959858802383817,
+    "difference": 4.6464060682316344e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "ciLo",
+    "app": -0.23847949602305937,
+    "reference": -0.2384794050000944,
+    "difference": 9.102296497087714e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "ciHi",
+    "app": 0.26953781606064525,
+    "reference": 0.26953772494783906,
+    "difference": 9.111280618867568e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "sigma2Between",
+    "app": 2.068020173417115e-17,
+    "reference": 2.0129861380907615e-11,
+    "difference": 2.012984070070588e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "sigma2Within",
+    "app": 0.16088708532687257,
+    "reference": 0.1608869651219811,
+    "difference": 1.20204891457254e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "logLik",
+    "app": -4.761475367062154,
+    "reference": -4.761475367428448,
+    "difference": 7.692860590526473e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "UI_row_count",
+    "app": 10,
+    "reference": 10,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "I2_study_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "I2_within_formula",
+    "app": 0.9713909349810612,
+    "reference": 0.9713909359864518,
+    "difference": 1.0053905485918335e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.berkey1998r",
+    "quantity": "I2_sampling_formula",
+    "app": 0.028609063983937918,
+    "reference": 0.02860906401354832,
+    "difference": 2.96104009367415e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "mu",
+    "app": 0.12280482279699687,
+    "reference": 0.12280482279803746,
+    "difference": 1.0405981631933514e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "se",
+    "app": 0.02376749223242256,
+    "reference": 0.0237674922338564,
+    "difference": 1.4338391585155819e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "ciLo",
+    "app": 0.07622139401861316,
+    "reference": 0.0762213940168435,
+    "difference": 1.7696677456768839e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "ciHi",
+    "app": 0.16938825157538057,
+    "reference": 0.16938825157923143,
+    "difference": 3.850864072063587e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "sigma2Between",
+    "app": 1.9267627744093263e-17,
+    "reference": 1.5337733244904063e-13,
+    "difference": 1.5335806482129653e-13,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "sigma2Within",
+    "app": 2.7916292302048466e-17,
+    "reference": 1.6276833954909166e-12,
+    "difference": 1.6276554791986147e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "logLik",
+    "app": 6.761412302352985,
+    "reference": 6.761412301836732,
+    "difference": 7.635293980082503e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "UI_row_count",
+    "app": 67,
+    "reference": 67,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "I2_study_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.kalaian1996",
+    "quantity": "I2_sampling_formula",
+    "app": 0.9999999974133325,
+    "reference": 1.0,
+    "difference": 2.586667546822241e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "mu",
+    "app": 0.6801355232986254,
+    "reference": 0.680135534187505,
+    "difference": 1.0888879686810071e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "se",
+    "app": 0.05597230512335158,
+    "reference": 0.055972314843458874,
+    "difference": 9.72010729544115e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "ciLo",
+    "app": 0.5704318211251695,
+    "reference": 0.5704318129629891,
+    "difference": 8.162180487047976e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "ciHi",
+    "app": 0.7898392254720812,
+    "reference": 0.789839255412021,
+    "difference": 2.993993986066812e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "sigma2Between",
+    "app": 0.03832844932721747,
+    "reference": 0.03832846126675724,
+    "difference": 1.1939539773520025e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "sigma2Within",
+    "app": 0.026267024294071205,
+    "reference": 0.0262670600861105,
+    "difference": 3.579203929418573e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "logLik",
+    "app": -30.11949610842927,
+    "reference": -30.119496108431502,
+    "difference": 7.407508353574848e-14,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "UI_row_count",
+    "app": 66,
+    "reference": 66,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "I2_study_formula",
+    "app": 0.4185703146148894,
+    "reference": 0.41857031495170155,
+    "difference": 3.3681213373881747e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "I2_within_formula",
+    "app": 0.09597708169370275,
+    "reference": 0.09597708177093289,
+    "difference": 7.723013895066799e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.knapp2017",
+    "quantity": "I2_sampling_formula",
+    "app": 0.4854526028867348,
+    "reference": 0.48545260327736556,
+    "difference": 3.9063074996903424e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "mu",
+    "app": 0.10235896462913764,
+    "reference": 0.10235896573617391,
+    "difference": 1.1070362682108481e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "se",
+    "app": 0.022399988526256208,
+    "reference": 0.02239998736377284,
+    "difference": 1.162483366512479e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "ciLo",
+    "app": 0.05845579386356503,
+    "reference": 0.05845579724902684,
+    "difference": 3.3854618067263864e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "ciHi",
+    "app": 0.14626213539471025,
+    "reference": 0.146262134223321,
+    "difference": 1.1713892633657963e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "sigma2Between",
+    "app": 0.006895999598349898,
+    "reference": 0.006895998428774026,
+    "difference": 1.1695758719149074e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "sigma2Within",
+    "app": 0.00279602901140717,
+    "reference": 0.002796030416123632,
+    "difference": 1.4047164620736852e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "logLik",
+    "app": 94.10883037285616,
+    "reference": 94.1088303728554,
+    "difference": 8.154241760104288e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "UI_row_count",
+    "app": 113,
+    "reference": 113,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "I2_study_formula",
+    "app": 0.49868799553032306,
+    "reference": 0.4986879999449519,
+    "difference": 4.414628829163547e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "I2_within_formula",
+    "app": 0.16821198829246448,
+    "reference": 0.16821198978155885,
+    "difference": 1.489094375584088e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.tannersmith2016",
+    "quantity": "I2_sampling_formula",
+    "app": 0.3331000073247259,
+    "reference": 0.3331000102734893,
+    "difference": 2.9487634001235108e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "mu",
+    "app": 1.5849180491233459,
+    "reference": 1.5849180507571576,
+    "difference": 1.0308493563906551e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "se",
+    "app": 0.09438647256471171,
+    "reference": 0.09438647339954861,
+    "difference": 8.348369079369533e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "ciLo",
+    "app": 1.399923962268733,
+    "reference": 1.3999239622662945,
+    "difference": 1.7418759282747686e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "ciHi",
+    "app": 1.7699121359779588,
+    "reference": 1.7699121392480208,
+    "difference": 1.8475843667305018e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "sigma2Between",
+    "app": 0.41558090308968865,
+    "reference": 0.4155809136665231,
+    "difference": 1.0576834463815743e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "sigma2Within",
+    "app": 4.615855187767169e-16,
+    "reference": 1.0839482990164358e-09,
+    "difference": 1.083947837430917e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "logLik",
+    "app": -124.12446261045584,
+    "reference": -124.12446262394785,
+    "difference": 1.0869745217881939e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "UI_row_count",
+    "app": 98,
+    "reference": 98,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "I2_study_formula",
+    "app": 0.6721209887641593,
+    "reference": 0.67212098886619,
+    "difference": 1.0203071720837897e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.riley2003",
+    "quantity": "I2_sampling_formula",
+    "app": 0.32787901108403666,
+    "reference": 0.3278790111338099,
+    "difference": 4.977324108423886e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "mu",
+    "app": 0.5308509225686533,
+    "reference": 0.5308509226929309,
+    "difference": 1.2427758822042279e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "se",
+    "app": 0.015768134529070492,
+    "reference": 0.015768134041130328,
+    "difference": 4.879401639679148e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "ciLo",
+    "app": 0.4999459467882927,
+    "reference": 0.49994594786891544,
+    "difference": 1.0806227579429617e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "ciHi",
+    "app": 0.5617558983490138,
+    "reference": 0.5617558975169463,
+    "difference": 8.320675259909649e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "sigma2Between",
+    "app": 0.027382044214520476,
+    "reference": 0.02738204224434167,
+    "difference": 1.970178804822087e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "sigma2Within",
+    "app": 0.027872718865321715,
+    "reference": 0.02787271928221726,
+    "difference": 4.168955458627721e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "logLik",
+    "app": 442.6585894437953,
+    "reference": 442.65858944379556,
+    "difference": 6.420684045940719e-16,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "UI_row_count",
+    "app": 1653,
+    "reference": 1653,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "I2_study_formula",
+    "app": 0.47575246744621646,
+    "reference": 0.47575246832824036,
+    "difference": 8.820238983631157e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "I2_within_formula",
+    "app": 0.512439506316034,
+    "reference": 0.512439507266074,
+    "difference": 9.50040046632239e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.mccurdy2020",
+    "quantity": "I2_sampling_formula",
+    "app": 0.011808024383793986,
+    "reference": 0.011808024405685557,
+    "difference": 2.189157015386467e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "mu",
+    "app": 0.23481636170755174,
+    "reference": 0.23481636166592076,
+    "difference": 4.1630976443940426e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "se",
+    "app": 0.06456879129622026,
+    "reference": 0.06456879118734468,
+    "difference": 1.0887557522210045e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "ciLo",
+    "app": 0.10826385624167673,
+    "reference": 0.10826385641343797,
+    "difference": 1.717612441165528e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "ciHi",
+    "app": 0.36136886717342676,
+    "reference": 0.36136886691840353,
+    "difference": 2.5502322476000927e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "sigma2Between",
+    "app": 0.11602414313511777,
+    "reference": 0.11602414326461102,
+    "difference": 1.2949324945665808e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "sigma2Within",
+    "app": 0.02036973811815944,
+    "reference": 0.02036973705674236,
+    "difference": 1.0614170792289102e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "logLik",
+    "app": -39.17457120619262,
+    "reference": -39.17457120619267,
+    "difference": 1.2696499277915388e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "UI_row_count",
+    "app": 81,
+    "reference": 81,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "I2_study_formula",
+    "app": 0.7086156367060628,
+    "reference": 0.7086156374076047,
+    "difference": 7.015419356548591e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "I2_within_formula",
+    "app": 0.06525756007270357,
+    "reference": 0.06525756013730971,
+    "difference": 6.460613988235053e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lehmann2018",
+    "quantity": "I2_sampling_formula",
+    "app": 0.22612680223121615,
+    "reference": 0.22612680245508565,
+    "difference": 2.238695062661833e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "mu",
+    "app": 0.37736281044831854,
+    "reference": 0.3773628112308129,
+    "difference": 7.824943470957635e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "se",
+    "app": 0.025394875877712362,
+    "reference": 0.025394876466227838,
+    "difference": 5.885154759355249e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "ciLo",
+    "app": 0.3275897683361373,
+    "reference": 0.32758976796516254,
+    "difference": 3.709747509184069e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "ciHi",
+    "app": 0.4271358525604998,
+    "reference": 0.42713585449646324,
+    "difference": 1.935963445109934e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "sigma2Between",
+    "app": 6.12403666509532e-17,
+    "reference": 1.438908960726188e-11,
+    "difference": 1.4389028366895228e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "sigma2Within",
+    "app": 0.0070558220227603385,
+    "reference": 0.007055822522854018,
+    "difference": 5.000936791413335e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "logLik",
+    "app": 13.306327537641028,
+    "reference": 13.306327536251686,
+    "difference": 1.0441212806576437e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "UI_row_count",
+    "app": 20,
+    "reference": 20,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "I2_study_formula",
+    "app": 0.072622413371774,
+    "reference": 0.07262241409207314,
+    "difference": 7.202991397781133e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "I2_within_formula",
+    "app": 0.5843959183517757,
+    "reference": 0.5843959241480563,
+    "difference": 5.796280566627843e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.begg1989",
+    "quantity": "I2_sampling_formula",
+    "app": 0.3429816583580366,
+    "reference": 0.34298166175987066,
+    "difference": 3.4018340366870348e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "mu",
+    "app": 0.26921223503214875,
+    "reference": 0.26921223568232955,
+    "difference": 6.501807980896501e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "se",
+    "app": 0.023966348611866858,
+    "reference": 0.02396634914197924,
+    "difference": 5.301123810752539e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "ciLo",
+    "app": 0.2222390549119582,
+    "reference": 0.2222390545231378,
+    "difference": 3.8882039254950485e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "ciHi",
+    "app": 0.31618541515233933,
+    "reference": 0.3161854168415213,
+    "difference": 1.6891819609732295e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "sigma2Between",
+    "app": 0.029763784025200343,
+    "reference": 0.029763785832787635,
+    "difference": 1.8075872916523128e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "sigma2Within",
+    "app": 0.014682372340235868,
+    "reference": 0.01468237234463521,
+    "difference": 4.39934200180403e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "logLik",
+    "app": -65.41964244017284,
+    "reference": -65.41964244017328,
+    "difference": 6.734009538100668e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "UI_row_count",
+    "app": 678,
+    "reference": 678,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "I2_study_formula",
+    "app": 0.3492511136499115,
+    "reference": 0.3492511142108101,
+    "difference": 5.608986053395881e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "I2_within_formula",
+    "app": 0.19421302004847624,
+    "reference": 0.19421302036038307,
+    "difference": 3.119068336943087e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bakdash2021",
+    "quantity": "I2_sampling_formula",
+    "app": 0.4565358646956106,
+    "reference": 0.4565358654288068,
+    "difference": 7.33196225954913e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "mu",
+    "app": 0.3811772356935047,
+    "reference": 0.3811772355195399,
+    "difference": 1.739647870202532e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "se",
+    "app": 0.04835318031300298,
+    "reference": 0.04835317987622186,
+    "difference": 4.367811182182102e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "ciLo",
+    "app": 0.28640674374204766,
+    "reference": 0.28640674442415814,
+    "difference": 6.821104792109622e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "ciHi",
+    "app": 0.47594772764496174,
+    "reference": 0.4759477266149217,
+    "difference": 1.0300400532514686e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "sigma2Between",
+    "app": 8.003000329527429e-17,
+    "reference": 1.0329820798097114e-11,
+    "difference": 1.0329740768093819e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "sigma2Within",
+    "app": 0.005233133036511707,
+    "reference": 0.005233132484410446,
+    "difference": 5.521012605425035e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "logLik",
+    "app": 0.17993873454555875,
+    "reference": 0.17993873452423692,
+    "difference": 2.132183318792613e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "UI_row_count",
+    "app": 20,
+    "reference": 20,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "I2_study_formula",
+    "app": 0.17260831017228498,
+    "reference": 0.17260831053189718,
+    "difference": 3.596122011284564e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cohen1981",
+    "quantity": "I2_sampling_formula",
+    "app": 0.8273916877443147,
+    "reference": 0.8273916894681027,
+    "difference": 1.7237880012288542e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "mu",
+    "app": -0.022513807258716448,
+    "reference": -0.02251380723582734,
+    "difference": 2.288910727621385e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "se",
+    "app": 0.06374880731527599,
+    "reference": 0.06374880747457927,
+    "difference": 1.5930327890156804e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "ciLo",
+    "app": -0.14745917365404093,
+    "reference": -0.14745917394338048,
+    "difference": 2.893395523173581e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "ciHi",
+    "app": 0.10243155913660802,
+    "reference": 0.10243155947172582,
+    "difference": 3.351177946253614e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "sigma2Between",
+    "app": 9.213762583054093e-18,
+    "reference": 5.050945702209101e-11,
+    "difference": 5.050944780832842e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "sigma2Within",
+    "app": 0.19240319057722138,
+    "reference": 0.19240319137298834,
+    "difference": 7.957669523328548e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "logLik",
+    "app": -34.98520673259214,
+    "reference": -34.985206735160915,
+    "difference": 7.34246172688844e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "UI_row_count",
+    "app": 54,
+    "reference": 54,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "I2_study_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "I2_within_formula",
+    "app": 0.9245389552134999,
+    "reference": 0.9245389556556572,
+    "difference": 4.421573107649124e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.craft2003",
+    "quantity": "I2_sampling_formula",
+    "app": 0.0754610443082537,
+    "reference": 0.07546104434434268,
+    "difference": 3.608897902740438e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "mu",
+    "app": 0.4509151524542806,
+    "reference": 0.45091515305159513,
+    "difference": 5.973145311699568e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "se",
+    "app": 0.028515942183646045,
+    "reference": 0.028515942388346326,
+    "difference": 2.0470028103125593e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "ciLo",
+    "app": 0.3950249327891079,
+    "reference": 0.39502493298521724,
+    "difference": 1.961093509805778e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "ciHi",
+    "app": 0.5068053721194533,
+    "reference": 0.506805373117973,
+    "difference": 9.985197113593358e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "sigma2Between",
+    "app": 0.022972981927282976,
+    "reference": 0.022972983053271768,
+    "difference": 1.1259887917891565e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "sigma2Within",
+    "app": 0.032862089326265304,
+    "reference": 0.03286208879957439,
+    "difference": 5.266909131051989e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "logLik",
+    "app": -1.2579429167103235,
+    "reference": -1.257942916710384,
+    "difference": 4.8011822903338875e-14,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "UI_row_count",
+    "app": 97,
+    "reference": 97,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "I2_study_formula",
+    "app": 0.6276784176826751,
+    "reference": 0.627678418831153,
+    "difference": 1.1484779793846656e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "I2_within_formula",
+    "app": 0.3101656838262716,
+    "reference": 0.31016568439378905,
+    "difference": 5.675174774566472e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.crede2010",
+    "quantity": "I2_sampling_formula",
+    "app": 0.062155896661329715,
+    "reference": 0.062155896775057826,
+    "difference": 1.1372811026255647e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "mu",
+    "app": 0.15726308717130474,
+    "reference": 0.15726308419486026,
+    "difference": 2.9764444797741874e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "se",
+    "app": 0.03294000143444133,
+    "reference": 0.03294000003166574,
+    "difference": 1.4027755901313554e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "ciLo",
+    "app": 0.09270187070910202,
+    "reference": 0.09270187048204719,
+    "difference": 2.2705483326834752e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "ciHi",
+    "app": 0.22182430363350747,
+    "reference": 0.22182429790767333,
+    "difference": 5.725834140157815e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "sigma2Between",
+    "app": 0.015307578110733529,
+    "reference": 0.01530757494315029,
+    "difference": 3.1675832391081515e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "sigma2Within",
+    "app": 0.06493055098332928,
+    "reference": 0.06493055169774807,
+    "difference": 7.14418788017035e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "logLik",
+    "app": -84.39699024246488,
+    "reference": -84.39699024246488,
+    "difference": 0.0,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "UI_row_count",
+    "app": 186,
+    "reference": 186,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "I2_study_formula",
+    "app": 0.2837816352399161,
+    "reference": 0.2837816356031593,
+    "difference": 3.6324315777491734e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "I2_within_formula",
+    "app": 0.47836042534552947,
+    "reference": 0.47836042595783534,
+    "difference": 6.123058726714703e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.white2020",
+    "quantity": "I2_sampling_formula",
+    "app": 0.237857938134545,
+    "reference": 0.2378579384390054,
+    "difference": 3.044604013346941e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "mu",
+    "app": 1.4076600430650463,
+    "reference": 1.4076600428636987,
+    "difference": 1.430370964041496e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "se",
+    "app": 0.10610267958081654,
+    "reference": 0.10610267417351242,
+    "difference": 5.407304118354439e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "ciLo",
+    "app": 1.1997026124234524,
+    "reference": 1.1997026228202263,
+    "difference": 8.666125828595796e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "ciHi",
+    "app": 1.6156174737066402,
+    "reference": 1.6156174629071711,
+    "difference": 6.68442211396654e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "sigma2Between",
+    "app": 0.2612339942623772,
+    "reference": 0.26123396516796704,
+    "difference": 2.9094410158858608e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "sigma2Within",
+    "app": 0.005141058947826064,
+    "reference": 0.005141058599391416,
+    "difference": 3.484346474541544e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "logLik",
+    "app": -18.0009335939512,
+    "reference": -18.000933593951554,
+    "difference": 1.9736274567415985e-14,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "UI_row_count",
+    "app": 33,
+    "reference": 33,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "I2_study_formula",
+    "app": 0.9417181111674435,
+    "reference": 0.9417181116439185,
+    "difference": 4.764749705898907e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "I2_within_formula",
+    "app": 0.013788705410249784,
+    "reference": 0.013788705417226366,
+    "difference": 6.9765825061463005e-12,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.demir2022",
+    "quantity": "I2_sampling_formula",
+    "app": 0.04449318291634324,
+    "reference": 0.044493182938855166,
+    "difference": 2.2511929820279164e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "mu",
+    "app": -0.10098855688140862,
+    "reference": -0.10098855690480164,
+    "difference": 2.33930236293034e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "se",
+    "app": 0.04173716074861256,
+    "reference": 0.04173716077511776,
+    "difference": 2.6505193873038735e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "ciLo",
+    "app": -0.18279188876564806,
+    "reference": -0.1827918888409903,
+    "difference": 7.534223245286853e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "ciHi",
+    "app": -0.019185224997169195,
+    "reference": -0.019185224968612996,
+    "difference": 2.8556199072049537e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "sigma2Between",
+    "app": 0.01608521117527055,
+    "reference": 0.016085211224363186,
+    "difference": 4.909263620622717e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "sigma2Within",
+    "app": 0.0037524273412162853,
+    "reference": 0.0037524272984095284,
+    "difference": 4.280675683712709e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "logLik",
+    "app": -13.083900262912987,
+    "reference": -13.083900262913033,
+    "difference": 3.5299319695458837e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "UI_row_count",
+    "app": 66,
+    "reference": 66,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "I2_study_formula",
+    "app": 0.67948930407918,
+    "reference": 0.6794893062459866,
+    "difference": 2.166806623016271e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "I2_within_formula",
+    "app": 0.12039105677191676,
+    "reference": 0.12039105715582883,
+    "difference": 3.839120688020614e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bornmann2007",
+    "quantity": "I2_sampling_formula",
+    "app": 0.20011963596002788,
+    "reference": 0.2001196365981845,
+    "difference": 6.381566108881742e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "mu",
+    "app": 1.2712330472163758,
+    "reference": 1.2712330523224515,
+    "difference": 4.016632335890584e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "se",
+    "app": 0.11333194589957844,
+    "reference": 0.11333194711085673,
+    "difference": 1.211278286006312e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "ciLo",
+    "app": 1.0491065149553602,
+    "reference": 1.0491065176873742,
+    "difference": 2.604133996255848e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "ciHi",
+    "app": 1.4933595794773913,
+    "reference": 1.493359586957529,
+    "difference": 5.008932668158475e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "sigma2Between",
+    "app": 0.20970954949121956,
+    "reference": 0.20970948923367527,
+    "difference": 6.025754428762298e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "sigma2Within",
+    "app": 0.19848710157833163,
+    "reference": 0.1984871843344426,
+    "difference": 8.275611096397739e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "logLik",
+    "app": -64.59606515948198,
+    "reference": -64.59606515948218,
+    "difference": 3.079939397572168e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "UI_row_count",
+    "app": 54,
+    "reference": 54,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "I2_study_formula",
+    "app": 0.6974552949948231,
+    "reference": 0.697455295144723,
+    "difference": 1.4989998131653692e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "I2_within_formula",
+    "app": 0.18823324048055748,
+    "reference": 0.18823324052101334,
+    "difference": 4.045586088352593e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.bourassa1996",
+    "quantity": "I2_sampling_formula",
+    "app": 0.1143114643096954,
+    "reference": 0.11431146433426369,
+    "difference": 2.4568291845383783e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "mu",
+    "app": 0.25638542364731504,
+    "reference": 0.25638542340628684,
+    "difference": 2.410281974007944e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "se",
+    "app": 0.02194745155260546,
+    "reference": 0.021947451383162564,
+    "difference": 1.6944289721321226e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "ciLo",
+    "app": 0.21336920905177065,
+    "reference": 0.2133692091428444,
+    "difference": 9.107375964489961e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "ciHi",
+    "app": 0.2994016382428594,
+    "reference": 0.29940163766972927,
+    "difference": 5.731301544464884e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "sigma2Between",
+    "app": 0.0014205144646283324,
+    "reference": 0.00142051456214392,
+    "difference": 9.751558761872392e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "sigma2Within",
+    "app": 0.02440722256531569,
+    "reference": 0.024407221349647977,
+    "difference": 1.2156677123287274e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "logLik",
+    "app": 8.084514054022334,
+    "reference": 8.084514054022293,
+    "difference": 5.053637984076303e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "UI_row_count",
+    "app": 102,
+    "reference": 102,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "I2_study_formula",
+    "app": 0.3447609542546235,
+    "reference": 0.3447609561710635,
+    "difference": 1.916440006688447e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "I2_within_formula",
+    "app": 0.4733064654834744,
+    "reference": 0.47330646811446675,
+    "difference": 2.630992368413132e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.curtis1998",
+    "quantity": "I2_sampling_formula",
+    "app": 0.18193257470315208,
+    "reference": 0.18193257571446966,
+    "difference": 1.0113175852310974e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "mu",
+    "app": -0.10671359305233911,
+    "reference": -0.1067135402194538,
+    "difference": 5.2832885316655975e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "se",
+    "app": 0.07117267472347226,
+    "reference": 0.07117261210497033,
+    "difference": 6.26185019253489e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "ciLo",
+    "app": -0.24620947219372902,
+    "reference": -0.24620929663083513,
+    "difference": 1.755628938893139e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "ciHi",
+    "app": 0.032782286089050774,
+    "reference": 0.03278221619192752,
+    "difference": 6.989712325600195e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "sigma2Between",
+    "app": 0.11788795359925237,
+    "reference": 0.1178875305735511,
+    "difference": 4.230257012738381e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "sigma2Within",
+    "app": 0.36975078208006706,
+    "reference": 0.36975125098296446,
+    "difference": 4.6890289739920377e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "logLik",
+    "app": -487.31986024837954,
+    "reference": -487.31986024845554,
+    "difference": 1.5595434788590926e-13,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "UI_row_count",
+    "app": 389,
+    "reference": 389,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "I2_study_formula",
+    "app": 0.21076007542946457,
+    "reference": 0.21076007546774622,
+    "difference": 3.8281655623251254e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "I2_within_formula",
+    "app": 0.4996288081020534,
+    "reference": 0.4996288081928041,
+    "difference": 9.075068474473369e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.besson2016",
+    "quantity": "I2_sampling_formula",
+    "app": 0.28961111628684627,
+    "reference": 0.28961111633944975,
+    "difference": 5.260347712976454e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "mu",
+    "app": -0.2230325305221306,
+    "reference": -0.22303253085156524,
+    "difference": 3.2943464622903207e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "se",
+    "app": 0.06576349937630437,
+    "reference": 0.0657634996193047,
+    "difference": 2.430003281927995e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "ciLo",
+    "app": -0.3519266207970094,
+    "reference": -0.351926621602716,
+    "difference": 8.057065570277189e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "ciHi",
+    "app": -0.09413844024725174,
+    "reference": -0.0941384401004145,
+    "difference": 1.4683723681407912e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "sigma2Between",
+    "app": 0.03490959879617871,
+    "reference": 0.03490959916655681,
+    "difference": 3.7037809624829166e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "sigma2Within",
+    "app": 4.555374528369016e-19,
+    "reference": 2.0143937113647628e-10,
+    "difference": 2.0143937068093882e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "logLik",
+    "app": -25.992813035394384,
+    "reference": -25.99281303858087,
+    "difference": 1.2259103072858492e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "UI_row_count",
+    "app": 34,
+    "reference": 34,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "I2_study_formula",
+    "app": 0.34614982867658556,
+    "reference": 0.34614982898432256,
+    "difference": 3.077370025472703e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anand1999",
+    "quantity": "I2_sampling_formula",
+    "app": 0.6538501704343862,
+    "reference": 0.6538501710156774,
+    "difference": 5.812912373670542e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "mu",
+    "app": -0.2121464565955418,
+    "reference": -0.2121464565291257,
+    "difference": 6.64160948460335e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "se",
+    "app": 0.04261300600307715,
+    "reference": 0.04261300607173939,
+    "difference": 6.866223561940998e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "ciLo",
+    "app": -0.29566641363456214,
+    "reference": -0.2956664137027215,
+    "difference": 6.815936703929992e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "ciHi",
+    "app": -0.12862649955652145,
+    "reference": -0.12862649935552986,
+    "difference": 2.0099158448694254e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "sigma2Between",
+    "app": 0.016750856424666376,
+    "reference": 0.01675085653227464,
+    "difference": 1.0760826257838474e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "sigma2Within",
+    "app": 4.291816206894201e-18,
+    "reference": 6.33117059779846e-11,
+    "difference": 6.33117016861684e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "logLik",
+    "app": -82.15681869592979,
+    "reference": -82.15681870611223,
+    "difference": 1.2393915740687371e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "UI_row_count",
+    "app": 118,
+    "reference": 118,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "I2_study_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.yusuf1985",
+    "quantity": "I2_sampling_formula",
+    "app": 0.999999999039881,
+    "reference": 1.0,
+    "difference": 9.601189843166935e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "mu",
+    "app": 0.5598732998501531,
+    "reference": 0.5598733010788169,
+    "difference": 1.2286638373382175e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "se",
+    "app": 0.03706466480187103,
+    "reference": 0.037064665242983165,
+    "difference": 4.4111213293174245e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "ciLo",
+    "app": 0.4872278917394365,
+    "reference": 0.4872278921035364,
+    "difference": 3.6409991688302057e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "ciHi",
+    "app": 0.6325187079608697,
+    "reference": 0.6325187100540974,
+    "difference": 2.093227702282263e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "sigma2Between",
+    "app": 0.056614994506741345,
+    "reference": 0.056614995405689934,
+    "difference": 8.989485891786053e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "sigma2Within",
+    "app": 1.5571955878712635e-15,
+    "reference": 2.349454653142635e-09,
+    "difference": 2.349453095947047e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "logLik",
+    "app": -90.93923506799419,
+    "reference": -90.93923507826618,
+    "difference": 1.1295443020149452e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "UI_row_count",
+    "app": 136,
+    "reference": 136,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "I2_study_formula",
+    "app": 0.40098103923051764,
+    "reference": 0.4009810395083073,
+    "difference": 2.7778968014757766e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hartmannboyce2018",
+    "quantity": "I2_sampling_formula",
+    "app": 0.5990189600767072,
+    "reference": 0.5990189604916928,
+    "difference": 4.1498560143793384e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "mu",
+    "app": -0.4403377299370304,
+    "reference": -0.44033773084586036,
+    "difference": 9.088299557369339e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "se",
+    "app": 0.06486750234325694,
+    "reference": 0.06486750297377536,
+    "difference": 6.305184152566312e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "ciLo",
+    "app": -0.5674756982968816,
+    "reference": -0.567475700441505,
+    "difference": 2.144623367783538e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "ciHi",
+    "app": -0.3131997615771792,
+    "reference": -0.3131997612502158,
+    "difference": 3.2696340079851893e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "sigma2Between",
+    "app": 0.11442296843460983,
+    "reference": 0.11442297185010718,
+    "difference": 3.4154973432842795e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "sigma2Within",
+    "app": 3.060297202734847e-20,
+    "reference": 5.462737757824181e-11,
+    "difference": 5.4627377547638835e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "logLik",
+    "app": -39.69712552107433,
+    "reference": -39.697125524759834,
+    "difference": 9.284065185999392e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "UI_row_count",
+    "app": 58,
+    "reference": 58,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "I2_study_formula",
+    "app": 0.7402021170258279,
+    "reference": 0.7402021174677945,
+    "difference": 4.419665744492818e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.landenberger2005",
+    "quantity": "I2_sampling_formula",
+    "app": 0.2597978823770828,
+    "reference": 0.25979788253220537,
+    "difference": 1.5512258144667612e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "mu",
+    "app": 0.37605871806467805,
+    "reference": 0.37605871840645866,
+    "difference": 3.4178060381861997e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "se",
+    "app": 0.020241640634307997,
+    "reference": 0.020241641124015695,
+    "difference": 4.897076980037163e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "ciLo",
+    "app": 0.33638583143343187,
+    "reference": 0.336385830815403,
+    "difference": 6.180288503188081e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "ciHi",
+    "app": 0.41573160469592424,
+    "reference": 0.4157316059975143,
+    "difference": 1.301590057956048e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "sigma2Between",
+    "app": 0.04283809290835138,
+    "reference": 0.04283809468986206,
+    "difference": 1.781510675091802e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "sigma2Within",
+    "app": 0.029928683776849384,
+    "reference": 0.02992868683674805,
+    "difference": 3.059898664309335e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "logLik",
+    "app": -100.55295521846877,
+    "reference": -100.55295521846868,
+    "difference": 8.479624304025555e-16,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "UI_row_count",
+    "app": 357,
+    "reference": 357,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "I2_study_formula",
+    "app": 0.5904558838009095,
+    "reference": 0.5904558845227891,
+    "difference": 7.21879556131455e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "I2_within_formula",
+    "app": 0.24591612467151275,
+    "reference": 0.24591612497216486,
+    "difference": 3.006521143156249e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_size",
+    "quantity": "I2_sampling_formula",
+    "app": 0.16362799030499767,
+    "reference": 0.16362799050504598,
+    "difference": 2.000483112496454e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "mu",
+    "app": 0.6236226003537694,
+    "reference": 0.623622599477107,
+    "difference": 8.766624093325959e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "se",
+    "app": 0.02293127073277394,
+    "reference": 0.022931271145189086,
+    "difference": 4.124151471718296e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "ciLo",
+    "app": 0.578678135597795,
+    "reference": 0.5786781339128138,
+    "difference": 1.6849812656261065e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "ciHi",
+    "app": 0.6685670651097437,
+    "reference": 0.6685670650414002,
+    "difference": 6.834355303908524e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "sigma2Between",
+    "app": 0.06843497158000872,
+    "reference": 0.0684349773062927,
+    "difference": 5.7262839747718175e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "sigma2Within",
+    "app": 0.07484583191386185,
+    "reference": 0.07484583079228768,
+    "difference": 1.121574166873529e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "logLik",
+    "app": -265.5037629448541,
+    "reference": -265.5037629448539,
+    "difference": 6.422894150010363e-16,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "UI_row_count",
+    "app": 517,
+    "reference": 517,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "I2_study_formula",
+    "app": 0.6203309826822869,
+    "reference": 0.6203309830763423,
+    "difference": 3.94055343910793e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "I2_within_formula",
+    "app": 0.30293288912010247,
+    "reference": 0.30293288931253576,
+    "difference": 1.9243329152374145e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/m_o_fecundity",
+    "quantity": "I2_sampling_formula",
+    "app": 0.07673612756237659,
+    "reference": 0.076736127611122,
+    "difference": 4.87454104858287e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "mu",
+    "app": -0.11593792062350616,
+    "reference": -0.11593792066957405,
+    "difference": 4.606788561734021e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "se",
+    "app": 0.04059527441924046,
+    "reference": 0.04059527463899133,
+    "difference": 2.1975087027836793e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "ciLo",
+    "app": -0.1955031964277376,
+    "reference": -0.1955031969045093,
+    "difference": 4.767716776932218e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "ciHi",
+    "app": -0.0363726448192747,
+    "reference": -0.03637264443463881,
+    "difference": 3.846358925807536e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "sigma2Between",
+    "app": 0.17408755149130323,
+    "reference": 0.1740875546835513,
+    "difference": 3.192248076988591e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "sigma2Within",
+    "app": 0.009071255509020744,
+    "reference": 0.009071254380502658,
+    "difference": 1.1285180862713462e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "logLik",
+    "app": -88.24013350951769,
+    "reference": -88.24013350951783,
+    "difference": 1.6104752055558915e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "UI_row_count",
+    "app": 170,
+    "reference": 170,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "I2_study_formula",
+    "app": 0.8935295620664164,
+    "reference": 0.8935295626480704,
+    "difference": 5.816539472291993e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "I2_within_formula",
+    "app": 0.02967170648784681,
+    "reference": 0.029671706507161968,
+    "difference": 1.931515711262044e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_unadj",
+    "quantity": "I2_sampling_formula",
+    "app": 0.07679873079477463,
+    "reference": 0.0767987308447677,
+    "difference": 4.999306524311464e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "mu",
+    "app": -0.36351304338729723,
+    "reference": -0.36351304801468676,
+    "difference": 4.627389527112058e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "se",
+    "app": 0.03921964268373944,
+    "reference": 0.03921963024986949,
+    "difference": 1.2433869947536813e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "ciLo",
+    "app": -0.44038213053395636,
+    "reference": -0.4403821107914086,
+    "difference": 1.9742547763268448e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "ciHi",
+    "app": -0.2866439562406381,
+    "reference": -0.2866439852379649,
+    "difference": 2.8997326817492564e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "sigma2Between",
+    "app": 0.08802693582391526,
+    "reference": 0.08802684327158569,
+    "difference": 9.255232956417725e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "sigma2Within",
+    "app": 0.02584324813731635,
+    "reference": 0.025843267214835885,
+    "difference": 1.907751953633685e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "logLik",
+    "app": -61.60590165532226,
+    "reference": -61.605901655330854,
+    "difference": 1.3944218726642506e-13,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "UI_row_count",
+    "app": 185,
+    "reference": 185,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "I2_study_formula",
+    "app": 0.7069398685385154,
+    "reference": 0.7069398691817891,
+    "difference": 6.432736565642472e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "I2_within_formula",
+    "app": 0.14309306866830082,
+    "reference": 0.1430930687985071,
+    "difference": 1.3020629019422358e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.lim2014/o_o_adj",
+    "quantity": "I2_sampling_formula",
+    "app": 0.14996706188324246,
+    "reference": 0.14996706201970367,
+    "difference": 1.3646120344823487e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "mu",
+    "app": 0.30264570243010797,
+    "reference": 0.302645702301251,
+    "difference": 1.288569806412454e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "se",
+    "app": 0.014832392681849308,
+    "reference": 0.0148323925794942,
+    "difference": 1.0235510702893968e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "ciLo",
+    "app": 0.27357474696912787,
+    "reference": 0.2735747470408832,
+    "difference": 7.175532390490957e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "ciHi",
+    "app": 0.33171665789108806,
+    "reference": 0.3317166575616188,
+    "difference": 3.2946928518740037e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "sigma2Between",
+    "app": 0.08070708753242335,
+    "reference": 0.08070708618550097,
+    "difference": 1.3469223791862106e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "sigma2Within",
+    "app": 0.014899775350903166,
+    "reference": 0.014899775340404308,
+    "difference": 1.0498858726837312e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "logLik",
+    "app": -211.79699537495284,
+    "reference": -211.796995374959,
+    "difference": 2.911991709551353e-14,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "UI_row_count",
+    "app": 1828,
+    "reference": 1828,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "I2_study_formula",
+    "app": 0.7866312056499819,
+    "reference": 0.7866312070962543,
+    "difference": 1.4462724351460565e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "I2_within_formula",
+    "app": 0.14183416345900368,
+    "reference": 0.14183416371977495,
+    "difference": 2.6077126569212794e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.moura2021/dat",
+    "quantity": "I2_sampling_formula",
+    "app": 0.07153462905244969,
+    "reference": 0.07153462918397074,
+    "difference": 1.3152105793334812e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "mu",
+    "app": 181.6118295374894,
+    "reference": 181.61182919298764,
+    "difference": 1.8969125438034207e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "se",
+    "app": 31.87539788322364,
+    "reference": 31.87539882139419,
+    "difference": 2.943243322939178e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "ciLo",
+    "app": 119.13719769348678,
+    "reference": 119.13719551020455,
+    "difference": 1.8325781673506804e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "ciHi",
+    "app": 244.08646138149203,
+    "reference": 244.08646287577074,
+    "difference": 6.1219237171093995e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "sigma2Between",
+    "app": 9766.988648606284,
+    "reference": 9766.989431558404,
+    "difference": 8.016309688348228e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "sigma2Within",
+    "app": 724.7858242420416,
+    "reference": 724.785500972855,
+    "difference": 4.4602049325983165e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "logLik",
+    "app": -199.8875345923403,
+    "reference": -199.88753459234036,
+    "difference": 2.843770071842501e-16,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "UI_row_count",
+    "app": 35,
+    "reference": 35,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "I2_study_formula",
+    "app": 0.8114741706994111,
+    "reference": 0.8114741706994172,
+    "difference": 6.106226635438361e-15,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "I2_within_formula",
+    "app": 0.03192588860697177,
+    "reference": 0.03192588860697201,
+    "difference": 2.3592239273284576e-16,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.maire2019",
+    "quantity": "I2_sampling_formula",
+    "app": 0.15659994069360963,
+    "reference": 0.1565999406936108,
+    "difference": 1.1657341758564144e-15,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "mu",
+    "app": -0.1759059897976596,
+    "reference": -0.17590601472856765,
+    "difference": 2.4930908060216694e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "se",
+    "app": 0.05795263052071363,
+    "reference": 0.057952639542302,
+    "difference": 9.021588372182254e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "ciLo",
+    "app": -0.289491058427615,
+    "reference": -0.28949110104051134,
+    "difference": 4.261289632268017e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "ciHi",
+    "app": -0.06232092116770416,
+    "reference": -0.06232092841662394,
+    "difference": 7.248919783875429e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "sigma2Between",
+    "app": 0.0022502031901616244,
+    "reference": 0.002250211654742983,
+    "difference": 8.464581358752499e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "sigma2Within",
+    "app": 0.001735074469131813,
+    "reference": 0.0017350671209660534,
+    "difference": 7.348165759462483e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "logLik",
+    "app": -1.6110968573207074,
+    "reference": -1.6110968573209101,
+    "difference": 1.258314938517523e-13,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "UI_row_count",
+    "app": 12,
+    "reference": 12,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "I2_study_formula",
+    "app": 0.10685602589653431,
+    "reference": 0.10685602616098888,
+    "difference": 2.644545693542e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "I2_within_formula",
+    "app": 0.07695072546011239,
+    "reference": 0.07695072565055529,
+    "difference": 1.9044289756298127e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.anker2025",
+    "quantity": "I2_sampling_formula",
+    "app": 0.8161932461684851,
+    "reference": 0.8161932481884557,
+    "difference": 2.0199706352030944e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "mu",
+    "app": -27.181814658115524,
+    "reference": -27.181814651038287,
+    "difference": 2.603665967639649e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "se",
+    "app": 0.9449745451564963,
+    "reference": 0.944974476695434,
+    "difference": 6.846106226365833e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "ciLo",
+    "app": -29.033930732929377,
+    "reference": -29.033930591670924,
+    "difference": 4.865288679290293e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "ciHi",
+    "app": -25.32969858330167,
+    "reference": -25.32969871040565,
+    "difference": 5.017982334769021e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "sigma2Between",
+    "app": 28.505638421331817,
+    "reference": 28.505632926095377,
+    "difference": 1.9277721194119305e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "sigma2Within",
+    "app": 0.22176290468939153,
+    "reference": 0.22176294937429264,
+    "difference": 4.4684901112646e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "logLik",
+    "app": -249.46002365152884,
+    "reference": -249.46002365152944,
+    "difference": 2.3925913631445485e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "UI_row_count",
+    "app": 82,
+    "reference": 82,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "I2_study_formula",
+    "app": 0.8053750684397847,
+    "reference": 0.8053750684416809,
+    "difference": 1.8962609260597674e-12,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.ishak2007",
+    "quantity": "I2_sampling_formula",
+    "app": 0.19462493155786093,
+    "reference": 0.19462493155831911,
+    "difference": 4.581890422628021e-13,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "mu",
+    "app": 0.2378280034267621,
+    "reference": 0.23782794316426803,
+    "difference": 6.026249407820039e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "se",
+    "app": 0.0361934761668901,
+    "reference": 0.03619343663876257,
+    "difference": 3.952812752811008e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "ciLo",
+    "app": 0.1668900936643487,
+    "reference": 0.16689011087556097,
+    "difference": 1.7211212260948017e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "ciHi",
+    "app": 0.3087659131891755,
+    "reference": 0.3087657754529751,
+    "difference": 1.3773620038959322e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "sigma2Between",
+    "app": 0.001133272526953006,
+    "reference": 0.0011332590857035852,
+    "difference": 1.3441249420778623e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "sigma2Within",
+    "app": 4.776117418626063e-16,
+    "reference": 1.5821041755782705e-11,
+    "difference": 1.5820564144040843e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "logLik",
+    "app": -1.0872101995088728,
+    "reference": -1.087210199622799,
+    "difference": 1.047876499367383e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "UI_row_count",
+    "app": 34,
+    "reference": 34,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "I2_study_formula",
+    "app": 0.13256803088219138,
+    "reference": 0.13256803119281813,
+    "difference": 3.106267465469159e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.dagostino1998",
+    "quantity": "I2_sampling_formula",
+    "app": 0.8674319667746587,
+    "reference": 0.8674319688071819,
+    "difference": 2.032523149786414e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "mu",
+    "app": 0.08600134632615694,
+    "reference": 0.08600134606966107,
+    "difference": 2.564958662132355e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "se",
+    "app": 0.06429679590212792,
+    "reference": 0.0642967969763139,
+    "difference": 1.074185976279729e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "ciLo",
+    "app": -0.04001805796333632,
+    "reference": -0.04001806032519799,
+    "difference": 2.361861664579301e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "ciHi",
+    "app": 0.2120207506156502,
+    "reference": 0.21202075246452012,
+    "difference": 1.8488699182750423e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "sigma2Between",
+    "app": 7.37355176370325e-18,
+    "reference": 9.80116420154985e-11,
+    "difference": 9.801163464194674e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "sigma2Within",
+    "app": 3.618083202449697e-18,
+    "reference": 9.980452093071879e-11,
+    "difference": 9.980451731263559e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "logLik",
+    "app": -41.861873065236956,
+    "reference": -41.86187307076535,
+    "difference": 1.320626995617399e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "UI_row_count",
+    "app": 33,
+    "reference": 33,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "I2_study_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.axfors2021",
+    "quantity": "I2_sampling_formula",
+    "app": 0.9999999997719258,
+    "reference": 1.0,
+    "difference": 2.2807422617177053e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "mu",
+    "app": -0.05303976987497433,
+    "reference": -0.053039773062097006,
+    "difference": 3.1871226768842575e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "se",
+    "app": 0.2068154513703097,
+    "reference": 0.20681543983528233,
+    "difference": 1.1535027377718166e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "ciLo",
+    "app": -0.45839060600717635,
+    "reference": -0.45839058658606074,
+    "difference": 1.9421115604600914e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "ciHi",
+    "app": 0.3523110662572277,
+    "reference": 0.35231104046186673,
+    "difference": 2.579536095836943e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "sigma2Between",
+    "app": 1.302879272678038,
+    "reference": 1.3028791349485294,
+    "difference": 1.0571165428348562e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "sigma2Within",
+    "app": 0.059823929019210756,
+    "reference": 0.05982390557988334,
+    "difference": 2.343932741649679e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "logLik",
+    "app": -55.112658724637,
+    "reference": -55.11265872463714,
+    "difference": 2.5785100998673634e-15,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "UI_row_count",
+    "app": 35,
+    "reference": 35,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "I2_study_formula",
+    "app": 0.9427446020083525,
+    "reference": 0.9427446020845728,
+    "difference": 7.622025233189333e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "I2_within_formula",
+    "app": 0.04459670522955892,
+    "reference": 0.04459670523316453,
+    "difference": 3.6056088670299857e-12,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.hannum2020",
+    "quantity": "I2_sampling_formula",
+    "app": 0.012658692681239212,
+    "reference": 0.012658692682262652,
+    "difference": 1.0234400132924648e-12,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "mu",
+    "app": 0.05033990545278927,
+    "reference": 0.050339905330991655,
+    "difference": 1.2179761366137853e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "se",
+    "app": 0.008321157004940833,
+    "reference": 0.008321156742703275,
+    "difference": 2.622375580574321e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "ciLo",
+    "app": 0.034030737413402054,
+    "reference": 0.03403073780558061,
+    "difference": 3.921785535210276e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "ciHi",
+    "app": 0.06664907349217648,
+    "reference": 0.0666490728564027,
+    "difference": 6.357737808437847e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "sigma2Between",
+    "app": 0.0005686956200774368,
+    "reference": 0.0005686955758485936,
+    "difference": 4.422884324409293e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "sigma2Within",
+    "app": 0.0009098420355721849,
+    "reference": 0.0009098419982722277,
+    "difference": 3.7299957176759047e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "logLik",
+    "app": 76.41492805281538,
+    "reference": 76.41492805281534,
+    "difference": 5.579088436246366e-16,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "UI_row_count",
+    "app": 43,
+    "reference": 43,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "I2_study_formula",
+    "app": 0.9096349850957575,
+    "reference": 0.9096350853578921,
+    "difference": 1.0026213459468636e-07,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "I2_within_formula",
+    "app": 0.08928870300152804,
+    "reference": 0.08928871284314155,
+    "difference": 9.841613510253033e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.obrien2003",
+    "quantity": "I2_sampling_formula",
+    "app": 0.0010762016803449132,
+    "reference": 0.0010762017989664257,
+    "difference": 1.1862151256918085e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "mu",
+    "app": -0.13340939739683355,
+    "reference": -0.13340939742743588,
+    "difference": 3.060232622864589e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "se",
+    "app": 0.030352419143978775,
+    "reference": 0.030352419309893942,
+    "difference": 1.6591516702191278e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "ciLo",
+    "app": -0.192899045762696,
+    "reference": -0.19289904611848607,
+    "difference": 3.5579006407715497e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "ciHi",
+    "app": -0.0739197490309711,
+    "reference": -0.07391974873638568,
+    "difference": 2.945854116198632e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "sigma2Between",
+    "app": 2.40445255029019e-18,
+    "reference": 3.3191339989916185e-12,
+    "difference": 3.3191315945390682e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "sigma2Within",
+    "app": 0.009362615977496332,
+    "reference": 0.009362616149801712,
+    "difference": 1.7230538003343288e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "logLik",
+    "app": 9.833428729314742,
+    "reference": 9.83342872856003,
+    "difference": 7.674961291780315e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "UI_row_count",
+    "app": 24,
+    "reference": 24,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "I2_study_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "I2_within_formula",
+    "app": 0.4787035833430144,
+    "reference": 0.47870358624368214,
+    "difference": 2.9006677615406318e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.cannon2006",
+    "quantity": "I2_sampling_formula",
+    "app": 0.5212964105975624,
+    "reference": 0.5212964137563179,
+    "difference": 3.1587554794043626e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "mu",
+    "app": 0.37705312121246454,
+    "reference": 0.37705288731187314,
+    "difference": 2.3390059139538621e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "se",
+    "app": 0.071141322617489,
+    "reference": 0.07114100838488295,
+    "difference": 3.142326060467937e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "ciLo",
+    "app": 0.23761869106964134,
+    "reference": 0.23761907305364058,
+    "difference": 3.819839992369456e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "ciHi",
+    "app": 0.5164875513552878,
+    "reference": 0.5164867015701057,
+    "difference": 8.497851821109847e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "sigma2Between",
+    "app": 0.02368984305816514,
+    "reference": 0.023689288420923413,
+    "difference": 5.546372417279677e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "sigma2Within",
+    "app": 4.3059849187402366e-23,
+    "reference": 2.1237062649810268e-10,
+    "difference": 2.123706264980596e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "logLik",
+    "app": -55.99903855112081,
+    "reference": -55.99903855605656,
+    "difference": 8.813989872129552e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "UI_row_count",
+    "app": 66,
+    "reference": 66,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "I2_study_formula",
+    "app": 0.1332631511465001,
+    "reference": 0.1332631512079979,
+    "difference": 6.149780684694406e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.fine1993",
+    "quantity": "I2_sampling_formula",
+    "app": 0.8667368483920235,
+    "reference": 0.8667368487920022,
+    "difference": 3.999787168140756e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "mu",
+    "app": -0.0713865294547777,
+    "reference": -0.07138655464374441,
+    "difference": 2.5188966704114968e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "se",
+    "app": 0.02683554817798511,
+    "reference": 0.026835507372373106,
+    "difference": 4.0805612003952385e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "ciLo",
+    "app": -0.12398323738901798,
+    "reference": -0.1239831826004548,
+    "difference": 5.478856318630321e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "ciHi",
+    "app": -0.018789821520537424,
+    "reference": -0.018789926687034025,
+    "difference": 1.0516649660147204e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "sigma2Between",
+    "app": 4.412842026323417e-18,
+    "reference": 7.79961449036572e-12,
+    "difference": 7.799610077523693e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "sigma2Within",
+    "app": 0.00020840886540753943,
+    "reference": 0.0002083889060106161,
+    "difference": 1.9959396923316212e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "logLik",
+    "app": -8.437481015528311,
+    "reference": -8.43748101664859,
+    "difference": 1.3277410384479676e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "UI_row_count",
+    "app": 32,
+    "reference": 32,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "I2_study_formula",
+    "app": 0.034211531834330955,
+    "reference": 0.03421153196957457,
+    "difference": 1.3524361491823456e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "I2_within_formula",
+    "app": 0.004052949179480229,
+    "reference": 0.0040529491955021806,
+    "difference": 1.6021951126932166e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.chiarito2020",
+    "quantity": "I2_sampling_formula",
+    "app": 0.9617355150330299,
+    "reference": 0.9617355188349234,
+    "difference": 3.801893466715001e-09,
+    "tolerance": 1e-09,
+    "passed": false
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "mu",
+    "app": -0.17934615408979307,
+    "reference": -0.17934615409297053,
+    "difference": 3.177458296477198e-12,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "se",
+    "app": 0.04486778812656972,
+    "reference": 0.04486778799780282,
+    "difference": 1.2876689992058488e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "ciLo",
+    "app": -0.2672854028838436,
+    "reference": -0.2672854026346425,
+    "difference": 2.492011041965725e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "ciHi",
+    "app": -0.09140690529574255,
+    "reference": -0.09140690555129852,
+    "difference": 2.5555596527837565e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "sigma2Between",
+    "app": 0.017256430921322397,
+    "reference": 0.0172564307445692,
+    "difference": 1.7675319541332613e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "sigma2Within",
+    "app": 0.033714048251932846,
+    "reference": 0.03371404816356567,
+    "difference": 8.836717468874156e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "logLik",
+    "app": -91.5125877097734,
+    "reference": -91.51258770977347,
+    "difference": 7.764426223128371e-16,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "UI_row_count",
+    "app": 128,
+    "reference": 128,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "I2_study_formula",
+    "app": 0.2431572065812439,
+    "reference": 0.24315720692771425,
+    "difference": 3.464703524080903e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "I2_within_formula",
+    "app": 0.33420037118552826,
+    "reference": 0.33420037166172434,
+    "difference": 4.761960825661049e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.karner2014",
+    "quantity": "I2_sampling_formula",
+    "app": 0.42264242080834585,
+    "reference": 0.42264242141056135,
+    "difference": 6.022154996898621e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "mu",
+    "app": 0.19596124942857296,
+    "reference": 0.1959612491458487,
+    "difference": 2.8272426066955347e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "se",
+    "app": 0.1278941242747774,
+    "reference": 0.12789412453190038,
+    "difference": 2.5712298956648283e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "ciLo",
+    "app": -0.05470662798428061,
+    "reference": -0.05470662877095664,
+    "difference": 7.866760298735898e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "ciHi",
+    "app": 0.4466291268414265,
+    "reference": 0.446629127062654,
+    "difference": 2.212274807789072e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "sigma2Between",
+    "app": 1.3334960059924107e-17,
+    "reference": 4.240297491655021e-10,
+    "difference": 4.2402973583054206e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "sigma2Within",
+    "app": 1.577247256165022e-16,
+    "reference": 1.542602973998906e-10,
+    "difference": 1.5426013967516498e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "logLik",
+    "app": -124.15075027114217,
+    "reference": -124.15075028194323,
+    "difference": 8.699955157534977e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "UI_row_count",
+    "app": 84,
+    "reference": 84,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "I2_study_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.nissen2007",
+    "quantity": "I2_sampling_formula",
+    "app": 0.9999999999329594,
+    "reference": 1.0,
+    "difference": 6.704059529738515e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "mu",
+    "app": -0.21781142737172735,
+    "reference": -0.21781142763167236,
+    "difference": 2.599450099616263e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "se",
+    "app": 0.13136677446362396,
+    "reference": 0.13136677543376607,
+    "difference": 9.70142105538585e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "ciLo",
+    "app": -0.47528557408562644,
+    "reference": -0.47528557624701495,
+    "difference": 2.161388512611495e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "ciHi",
+    "app": 0.03966271934217172,
+    "reference": 0.03966272098367027,
+    "difference": 1.6414985481993938e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "sigma2Between",
+    "app": 0.2371917706480089,
+    "reference": 0.23719177643428951,
+    "difference": 5.78628062131159e-09,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "sigma2Within",
+    "app": 8.99145490917627e-18,
+    "reference": 3.477302760503111e-10,
+    "difference": 3.477302670588562e-10,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "logLik",
+    "app": -86.17000932598474,
+    "reference": -86.17000933290853,
+    "difference": 8.035044300316432e-11,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "UI_row_count",
+    "app": 71,
+    "reference": 71,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "I2_study_formula",
+    "app": 0.33804474580222915,
+    "reference": 0.3380447458601068,
+    "difference": 5.787764711939758e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985a",
+    "quantity": "I2_sampling_formula",
+    "app": 0.6619552540265582,
+    "reference": 0.6619552541398931,
+    "difference": 1.1333489702280986e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "mu",
+    "app": -0.3594623571973683,
+    "reference": -0.35946237636961964,
+    "difference": 1.9172251342070012e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "se",
+    "app": 0.12088445081665296,
+    "reference": 0.12088450842346928,
+    "difference": 5.760681631716835e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "ciLo",
+    "app": -0.5963915270889116,
+    "reference": -0.5963916591684482,
+    "difference": 1.3207953653004978e-07,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "ciHi",
+    "app": -0.12253318730582496,
+    "reference": -0.12253309357079109,
+    "difference": 9.373503387366533e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "sigma2Between",
+    "app": 0.0010363738360069444,
+    "reference": 0.0010364677149089067,
+    "difference": 9.387890196233158e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "sigma2Within",
+    "app": 0.11591552579938326,
+    "reference": 0.11591554069925379,
+    "difference": 1.4899870531825954e-08,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "logLik",
+    "app": -38.22611159456946,
+    "reference": -38.22611159457071,
+    "difference": 3.271468540146767e-14,
+    "tolerance": 1e-06,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "UI_row_count",
+    "app": 34,
+    "reference": 34,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "UI_REML_render",
+    "app": 1,
+    "reference": 1,
+    "difference": 0.0,
+    "tolerance": 0,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "I2_study_formula",
+    "app": 0.24190485920927413,
+    "reference": 0.24190485928904892,
+    "difference": 7.977479787868447e-11,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "I2_within_formula",
+    "app": 0,
+    "reference": 0.0,
+    "difference": 0.0,
+    "tolerance": 1e-09,
+    "passed": true
+  },
+  {
+    "configuration": "dat.collins1985b",
+    "quantity": "I2_sampling_formula",
+    "app": 0.7580951404609484,
+    "reference": 0.7580951407109511,
+    "difference": 2.5000268522035185e-10,
+    "tolerance": 1e-09,
+    "passed": true
+  }
+]

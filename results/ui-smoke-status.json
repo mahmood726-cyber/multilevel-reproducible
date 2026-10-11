@@ -1,0 +1,7 @@
+{
+  "status": "pass",
+  "checks": "20/20",
+  "browser": "154.0.8037.93",
+  "command": "PLAYWRIGHT_MODULE=<playwright> node bench/ui_smoke.mjs",
+  "note": "Run on the host; the sandbox used to build the archive could not bind 127.0.0.1:8000. Full record: results/ui-smoke.json."
+}

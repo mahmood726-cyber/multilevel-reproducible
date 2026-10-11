@@ -1,0 +1,23 @@
+{
+  "hub/app-style.css": "905dba05ebb123f3c3baec8b5691830b48eb9c9092648f5cba71be0efc6a12a6",
+  "hub/shared/a11y-landmarks.js": "a9b35c71c500b0fe4e5a080f23c9dbb11c5462663a0d44e4557f782149e5f8ea",
+  "hub/shared/axis-controls.js": "1620bdc94620df10a41abe91c388de6a91f03367dd3719cb77ce2776ab553806",
+  "hub/shared/chart-download.js": "eae1a1856a1e2c2b791eb3ab8042ea160a3536fdbbaec1b2b8d5afcde5c58887",
+  "hub/shared/csv-upload.js": "10911a32651c52e504cae20783e05819ec0a9e9b958151fed9592021234180d0",
+  "hub/shared/glossary.json": "ff96263d3e828de5f681a814418487257dfc5625417c1aed8e87a7e3339672d8",
+  "hub/shared/reset-undo.js": "0ef224c3e8a53dca6364cdbdfa8a0f24dc5e0e8805180651781106e0a2af1ee8",
+  "hub/shared/results-export.js": "8fd30b46fc6e0d09b98326f69edf14757659dbcf2cf1434ca8c5de60c057cc71",
+  "hub/shared/tooltips.js": "cd9fd2d82a5d5402915737de9aaef7caa0f506ca0550e0f18f078c67b3078393",
+  "hub/shared/url-state.js": "03ab619b5e0e7e022e4d36c1c2bd5bf150fa4918ca46f2ae80b71719758611d6",
+  "multilevel-ma/index.html": "d201a1bafecc490d5ef3d32fdede9428f7bc7360f2f34de6d3d5ef456483ad12",
+  "shared/autosave.js": "18bcc6c10f6177482b2f8453bede3f92887d7e6729413862cc903891405d23e8",
+  "shared/build-info.js": "b32182254f5e6627d01ebb5a7dcb9c5cdbadbb5a4cdeb21984dc882407949609",
+  "shared/forced-colors.css": "a967581cb9dfe03bcd6158264353dd8c3fff386d2919143587aa507a24e0c39c",
+  "shared/grade-push.js": "f041306b05870be893e335f1d2f34bf581bd79e069d3a7dff9e516fbc433dec1",
+  "shared/ma-core.js": "6b2e4e8dc1c4c12482985f8ae90a80e85ffb9bb731063ac18f52ad5cefb30ca4",
+  "shared/ma-pooled-v1.js": "7f73cff95bc75d106570883a73fe7743d4db74a3fca6151a0310be0f72d3d427",
+  "shared/ma-studies-v1.js": "0710fcb7284e1c837810e4d388d5538836d55483d6b014c6e7f864c44bf26bf6",
+  "shared/multilevel-reml.js": "b335f7fa1d2849a7c9d54079abc11304b611be949098de45069b644d2e52646b",
+  "shared/stats-qt.js": "940799800218f846a3af4c78e32bf6adf58896f383ceb4ea18b784ce6932ca50",
+  "shared/truthcert-export.js": "d1cc2ff8584d2915bb0414e78e03ab22eccb68e4867a34193fe30ecfe6fdfefc"
+}

@@ -1,0 +1,9 @@
+{
+  "missing_local_assets": [],
+  "added_from_git": [
+    "hub/app-style.css",
+    "hub/shared/glossary.json"
+  ],
+  "source": "supplied merged snapshot (= e735558) plus two assets it lacked, taken byte-for-byte from git at e735558",
+  "note": "Neither asset affects the numerical results: a stylesheet and the tooltip glossary."
+}
