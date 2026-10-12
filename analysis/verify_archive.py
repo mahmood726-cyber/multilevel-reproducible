@@ -47,8 +47,20 @@ def main():
     with tempfile.TemporaryDirectory(prefix='.verify-',dir=ROOT) as temp:
         tmp=Path(temp)
         assert build(ROOT/'results',tmp,expected)==0
-        assert {p.name for p in tmp.iterdir()}=={p.name for p in (ROOT/'outputs').iterdir() if p.is_file()}
+        assert {p.name for p in tmp.iterdir()}=={p.name for p in (ROOT/'outputs').iterdir() if p.is_file() and p.name != 'validate_R_table.csv'}
         for p in tmp.iterdir():assert p.read_bytes()==(ROOT/'outputs'/p.name).read_bytes(),f'Output not reproducible: {p.name}'
+    rtable = ROOT/'outputs/validate_R_table.csv'
+    if rtable.exists():
+        rows = csvread(rtable)
+        assert len(rows) == 528
+        corpus = read(ROOT/'data/corpus.json')
+        quantities = {r['quantity'] for r in csvread(ROOT/'outputs/table2_by_quantity.csv') if r['quantity'] != 'TOTAL'}
+        assert {(r['configuration'], r['quantity']) for r in rows} == {(n, q) for n in corpus for q in quantities}
+        for r in rows:
+            av, rv, delta, tol = map(float, (r['App'], r['R'], r['Difference'], r['Tolerance']))
+            assert abs(abs(av-rv)/max(1,abs(rv))-delta) < 1e-12
+            assert r['Result'] == ('PASS' if delta <= tol else 'FAIL')
+        assert all(r['Result'] == 'PASS' for r in rows)
     sizes=read(ROOT/'outputs/sizes.json')
     assert set(sizes)=={stem+'.'+ext for stem in ['figure2_agreement','visual_abstract'] for ext in ['png','tif']}
     for name,info in sizes.items():

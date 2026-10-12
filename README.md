@@ -24,6 +24,18 @@ For **dat.maire2019**, nlminb gave log-likelihood **-199.88753459235858**; BFGS 
 
 The use case, **dat.konstantopoulos2011**, has **56 effects and 11 districts**. Both app and R round to estimate **0.185**, SE **0.085**, normal **95% CI 0.019 to 0.350**, between variance **0.0651**, within variance **0.0327**, and log-likelihood **-7.959**. The app's MoM estimate rounds to **0.128**.
 
+## Validate with one command
+
+From this archive's root, with R and the already installed `metafor` and `jsonlite` packages:
+
+```text
+Rscript validate.R
+```
+
+No Python, Node, browser, metadat installation, or network is needed for this command. Missing packages fail with a nonzero exit status; nothing is installed automatically. Set R's standard library environment variables to your existing libraries if needed. The script prints actual R/metafor versions alongside the paper version, a full comparison table for each configuration, per-quantity totals, and `N/N checks pass`. It writes `outputs/validate_R_table.csv` and exits nonzero for any failed or incomplete check.
+
+Seven REML quantities are **recomputed in R** for each of the 44 configurations in `data/corpus.json`, against `results/app-merged-e735558.json`, at relative tolerance 1e-6. Optimizer settings match `bench/rerun_reference.R`, including Maire's BFGS exception. Three **archived MoM variance shares** are checked against a newly calculated closed form at 1e-9; the components and shares come from the archived app record. The two exact **UI checks replay archived** `parsedRows` and `renderMatches`; this command does not run a browser or certify current UI behavior. These twelve checks per configuration give 528 checks. All comparison differences use `abs(App-R)/max(1,abs(R))`; the CSV Mode column distinguishes the evidence sources. The optional R table is separately checked by `analysis/verify_archive.py`; historical Python-generated publication outputs remain byte-reproducible.
+
 ## Reproduce
 
 With existing Python, matplotlib and Pillow:

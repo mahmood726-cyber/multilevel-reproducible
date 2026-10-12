@@ -3,7 +3,7 @@
   ".gitignore": "023d592fd97f57a73713d8c0afcd71ef884bdd537f01e6adf435f91ae8dd8821",
   ".zenodo.json": "cb05c3f3c63923115c131a505f0372074b12ab2a3c088f8644f243d5e3a92e98",
   "analysis/make_outputs.py": "e6f5ba708eb4bd3f6b4dc8ac7ca8193e053e80272828a748c7591e9495d2c988",
-  "analysis/verify_archive.py": "c9ecfb2fa537a1fd8f48459da224f128654aaf031f6cbc9b5d8964c4164eb8ea",
+  "analysis/verify_archive.py": "c98044a9837645c654585c668ae0a791995c3ddcf0c5201946410e7fd021e982",
   "app/app-sha256.json": "3fbb6f3c2cba31a6d3b68362b96c4521d36f36b8c2a9782aaad351346b03d717",
   "app/hub/app-style.css": "905dba05ebb123f3c3baec8b5691830b48eb9c9092648f5cba71be0efc6a12a6",
   "app/hub/shared/a11y-landmarks.js": "a9b35c71c500b0fe4e5a080f23c9dbb11c5462663a0d44e4557f782149e5f8ea",
@@ -159,7 +159,7 @@
   "data/inventory.csv": "164d3e1cf382d7e900622abb55b2e0b186aabf3864257283c9eb15983287abdf",
   "expected/paper_values.json": "928f00f246ae8850c62d50d4a2eb5d8c5ef2009fc2dabde4296d7a8e9d0f2e95",
   "LICENSE": "05ac89555dffdedd1360a1fd01a584c6f3d6a0df404a72dd2d66b1d388a65952",
-  "README.md": "000defd2842b50545be8f2146067eb0c8dfa9df2a7ef64c3a969b0b96ef2efbc",
+  "README.md": "a5dd8a2b2d45c0a522fb35d2689763d568508aef769102d3e275320bc4589f2e",
   "results/app-merged-e735558.json": "633f1f198e440c423f8f03c729fee313263c555d4d9ad0e029904c1ff10a0aff",
   "results/app.json": "43e3720454697c2d16602614362d3dcc5bb0b178a40ea5b385772dcb511a0a82",
   "results/asset-availability.json": "f23e59a2b14afa0e14baf7a8970951111fe08363348c943d29f60370cbdfe51c",
@@ -178,5 +178,6 @@
   "results/reference.json": "5c200d44d0f0004f3f06e30895d20aaf27b54107a76f2c38d8c79f3402dcaf1e",
   "results/RESULTS.md": "81fb9aaef0b10d138b37e498e52665960207786638dd6f39605146eb8685d4db",
   "results/ui-smoke-status.json": "e745daa30ae67e99497fffba7b79306013932d3c60a35ecf233a57e2db2b14bf",
-  "results/ui-smoke.json": "e922ed1178bb9f0969e01f95210259773fa41dcf146e28239093f4e605e167f3"
+  "results/ui-smoke.json": "e922ed1178bb9f0969e01f95210259773fa41dcf146e28239093f4e605e167f3",
+  "validate.R": "57b3d1a43271a10c3d0592b35e25ec67eac8adee357197a5554a0bc5a9a1a15c"
 }
