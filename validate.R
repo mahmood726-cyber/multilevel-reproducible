@@ -9,7 +9,11 @@ main <- function() {
   cat('Replayed: archived MoM shares checked against their closed form; archived row count and renderMatches (no browser run).\n')
   corpus <- jsonlite::fromJSON('data/corpus.json', simplifyVector=FALSE)
   app <- jsonlite::fromJSON('results/app-merged-e735558.json', simplifyVector=FALSE)
-  stopifnot(length(corpus)==44L, setequal(names(corpus), names(app$results)), length(app$pageErrors)==0L)
+  cn <- names(corpus); an <- names(app$results)
+  # Coverage gate: 44 distinct, non-empty configuration names in both inputs (duplicate keys would let one
+  # configuration be counted many times).
+  stopifnot(length(corpus)==44L, length(app$results)==44L, !is.null(cn), !is.null(an), all(nzchar(cn)),
+            !anyDuplicated(cn), !anyDuplicated(an), setequal(cn, an), length(app$pageErrors)==0L)
   keys <- c('mu','se','ciLo','ciHi','sigma2Between','sigma2Within','logLik')
   table <- list()
   check <- function(name, quantity, a, r, tol, mode) {
@@ -48,7 +52,8 @@ main <- function() {
   }
   passed <- sum(result$Result=='PASS')
   cat(sprintf('%d/%d checks pass\n',passed,nrow(result)))
-  if(nrow(result)!=528L || passed!=528L) return(1L)
+  per <- table(result$configuration)
+  if(nrow(result)!=528L || passed!=528L || length(per)!=44L || any(per!=12L)) return(1L)
   0L
 }
 status <- tryCatch(main(),error=function(e) {cat('Validation failed: ',conditionMessage(e),'\n',sep='',file=stderr());1L})
