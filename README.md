@@ -66,3 +66,11 @@ Only intercept-only two-level-nested random-effect models are compared. There ar
 SOURCE_SHA256.json covers archive source files (excluding itself, generated outputs, rerun/, caches and git metadata). The app manifest additionally verifies the bytes copied from the pinned source. No manuscript drafts, machine paths or secrets are included. This tree is suitable for a future git repository; verification permits `.git`, and no git repository was initialized.
 
 Derived from [allmeta](https://github.com/mahmood726-cyber/allmeta) and allmeta v1.2.1, DOI **10.5281/zenodo.23288388**. Links and identifiers are supplied metadata, not network-fetched evidence. Data and package documentation retain their upstream attribution in bench/docs/ and the source package citations; the MIT license covers this archive's code and does not replace upstream rights.
+
+## Validate in R inside the app
+
+From allmeta commit a843c12 (PR #103), the multilevel page has a one-click **Validate in R** panel: it refits the
+current data with metafor's rma.mv (REML) in a self-hosted webR and compares the seven REML quantities, and it replays
+this archive's 44 configurations (528 checks) through the page's own code against the hash-pinned R reference. On the
+final page the replay gives 528/528, the same result as this archive. The files in app/ remain the validated snapshot
+(e735558); the later commit only adds the panel and exposes the page's existing parse and fit functions to it.
